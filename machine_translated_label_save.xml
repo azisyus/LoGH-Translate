@@ -168,7 +168,7 @@
   <Table1>
     <sort>153</sort>
     <baseString>%sが占領されました</baseString>
-    <target>%s occupied %s</target>
+    <target>%s has been occupied</target>
   </Table1>
   <Table1>
     <sort>154</sort>
@@ -203,7 +203,7 @@
   <Table1>
     <sort>160</sort>
     <baseString>総司令官%s戦隊を撃破しました</baseString>
-    <target>Commander the public sector% s squadron was defeated</target>
+    <target>Commander the public sector %s squadron was defeated</target>
   </Table1>
   <Table1>
     <sort>161</sort>
@@ -1114,7 +1114,7 @@
   <Table1>
     <sort>1084</sort>
     <baseString>戦果ポイント%sを獲得</baseString>
-    <target>veterans point% s acquisition</target>
+    <target>veterans point %s acquisition</target>
   </Table1>
   <Table1>
     <sort>1085</sort>
@@ -2317,7 +2317,7 @@
   <Table1>
     <sort>2534</sort>
     <baseString>%d勝%d敗</baseString>
-    <target>% d% d wins over</target>
+    <target>%d win %d loss</target>
   </Table1>
   <Table1>
     <sort>2600</sort>
@@ -2337,7 +2337,7 @@
   <Table1>
     <sort>3000</sort>
     <baseString>%s戦隊を発見いたしました</baseString>
-    <target>we found a% s squadron</target>
+    <target>we found a %s squadron</target>
   </Table1>
   <Table1>
     <sort>3001</sort>
@@ -2822,27 +2822,27 @@
   <Table1>
     <sort>3501</sort>
     <baseString>%sが%sを発見</baseString>
-    <target>%s finds</target>
+    <target>%s found %s</target>
   </Table1>
   <Table1>
     <sort>3502</sort>
     <baseString>%sが%sと戦闘開始</baseString>
-    <target>%s Start of battle with</target>
+    <target>%s starts fighting with %s</target>
   </Table1>
   <Table1>
     <sort>3503</sort>
     <baseString>%sを撃破</baseString>
-    <target>%s %s Destroys</target>
+    <target>Destroy %s</target>
   </Table1>
   <Table1>
     <sort>3504</sort>
     <baseString>%sが撃破される</baseString>
-    <target>%s %s is destroyed %s</target>
+    <target>%s is destroyed</target>
   </Table1>
   <Table1>
     <sort>3505</sort>
     <baseString>%sが%sを攻撃開始</baseString>
-    <target>starts attacking</target>
+    <target>%s starts attacking %s</target>
   </Table1>
   <Table1>
     <sort>3506</sort>
@@ -2852,22 +2852,22 @@
   <Table1>
     <sort>3507</sort>
     <baseString>%sが%sを無力化</baseString>
-    <target>%s %s helps %s of</target>
+    <target>%s disables %s</target>
   </Table1>
   <Table1>
     <sort>3508</sort>
     <baseString>%sが%sを占領</baseString>
-    <target>% s is% s occupation</target>
+    <target>%s is %s occupation</target>
   </Table1>
   <Table1>
     <sort>3509</sort>
     <baseString>%sにより%sが占領される</baseString>
-    <target>% s by% s is occupied is</target>
+    <target>%s by %s is occupied is</target>
   </Table1>
   <Table1>
     <sort>3510</sort>
     <baseString>%s軍、%s</baseString>
-    <target>% s Army,% s</target>
+    <target>%s Army, %s</target>
   </Table1>
   <Table1>
     <sort>3900</sort>
