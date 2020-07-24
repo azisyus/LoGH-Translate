@@ -1,0 +1,3247 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <sort>0</sort>
+    <target />
+  </Table1>
+  <Table1>
+    <sort>1</sort>
+    <baseString>光子砲</baseString>
+    <target>Photon Gun</target>
+  </Table1>
+  <Table1>
+    <sort>2</sort>
+    <baseString>光子パルス砲</baseString>
+    <target>Photon Pulse Gun</target>
+  </Table1>
+  <Table1>
+    <sort>3</sort>
+    <baseString>中性子ビーム砲</baseString>
+    <target>Neutron Beam Gun</target>
+  </Table1>
+  <Table1>
+    <sort>4</sort>
+    <baseString>中性子パルス砲</baseString>
+    <target>Neutron Pulse Gun</target>
+  </Table1>
+  <Table1>
+    <sort>5</sort>
+    <baseString>レールガン</baseString>
+    <target>Rail Gun</target>
+  </Table1>
+  <Table1>
+    <sort>6</sort>
+    <baseString>レールキャノン</baseString>
+    <target>Rail Cannon</target>
+  </Table1>
+  <Table1>
+    <sort>7</sort>
+    <baseString>レーザー水爆ミサイル</baseString>
+    <target>Laser Hydro Explosive Missile</target>
+  </Table1>
+  <Table1>
+    <sort>8</sort>
+    <baseString>中性子ミサイル</baseString>
+    <target>Neutron Missile</target>
+  </Table1>
+  <Table1>
+    <sort>9</sort>
+    <baseString>対空砲</baseString>
+    <target>Anti-Aircraft</target>
+  </Table1>
+  <Table1>
+    <sort>10</sort>
+    <baseString>戦闘衛星</baseString>
+    <target>Combat Satellite</target>
+  </Table1>
+  <Table1>
+    <sort>11</sort>
+    <baseString>トールハンマー</baseString>
+    <target>Thor Hammer</target>
+  </Table1>
+  <Table1>
+    <sort>12</sort>
+    <baseString>ガイエスハーケン</baseString>
+    <target>Gayeshaken</target>
+  </Table1>
+  <Table1>
+    <sort>13</sort>
+    <baseString>要塞砲</baseString>
+    <target>Fortress Gun</target>
+  </Table1>
+  <Table1>
+    <sort>14</sort>
+    <baseString>戦闘艇用レーザー砲</baseString>
+    <target>Combat Boat Laser Cannon</target>
+  </Table1>
+  <Table1>
+    <sort>100</sort>
+    <baseString>目標を選んでください。</baseString>
+    <target>Choose a target.</target>
+  </Table1>
+  <Table1>
+    <sort>101</sort>
+    <baseString>目標戦隊を選んでください。</baseString>
+    <target>Please select the target squadron.</target>
+  </Table1>
+  <Table1>
+    <sort>102</sort>
+    <baseString>目標地点を選んでください。</baseString>
+    <target>Please select a target point.</target>
+  </Table1>
+  <Table1>
+    <sort>103</sort>
+    <baseString>目標方向を選んでください。</baseString>
+    <target>Please select the target direction.</target>
+  </Table1>
+  <Table1>
+    <sort>104</sort>
+    <baseString>出撃させる戦隊を選んでください。</baseString>
+    <target>Select the squadron to be dispatched.</target>
+  </Table1>
+  <Table1>
+    <sort>105</sort>
+    <baseString>占領戦から離脱させる戦隊を選んでください。</baseString>
+    <target>Select the squadron that you want to leave the occupation battle.</target>
+  </Table1>
+  <Table1>
+    <sort>110</sort>
+    <baseString>新たな敵戦隊の侵入を確認しました！</baseString>
+    <target>We have confirmed the invasion of new enemy squadrons!</target>
+  </Table1>
+  <Table1>
+    <sort>111</sort>
+    <baseString>%sが到着しました！</baseString>
+    <target>%s has arrived!</target>
+  </Table1>
+  <Table1>
+    <sort>112</sort>
+    <baseString>敵戦隊の離脱を確認しました！</baseString>
+    <target>We have confirmed the departure of the enemy squadron!</target>
+  </Table1>
+  <Table1>
+    <sort>113</sort>
+    <baseString>%sが離出しました！</baseString>
+    <target>%s has left!</target>
+  </Table1>
+  <Table1>
+    <sort>114</sort>
+    <baseString>%s上空での戦いに勝利しました！</baseString>
+    <target>You have won the battle over %s!</target>
+  </Table1>
+  <Table1>
+    <sort>115</sort>
+    <baseString>%s上空での戦いに敗北しました！</baseString>
+    <target>You have lost the battle above %s!</target>
+  </Table1>
+  <Table1>
+    <sort>116</sort>
+    <baseString>%s上空に新たな敵戦隊の侵入を確認しました。
+ただちに迎撃戦に入ります！</baseString>
+    <target>A new enemy squadron has been confirmed invading %s. Immediately enter the interception battle!</target>
+  </Table1>
+  <Table1>
+    <sort>130</sort>
+    <baseString>%s</baseString>
+    <target>%s</target>
+  </Table1>
+  <Table1>
+    <sort>131</sort>
+    <baseString>制限時間残り%s分です。</baseString>
+    <target>Time limit is %s minutes remaining.</target>
+  </Table1>
+  <Table1>
+    <sort>150</sort>
+    <baseString>%s戦隊が撃破されました</baseString>
+    <target>%s squadron destroyed</target>
+  </Table1>
+  <Table1>
+    <sort>151</sort>
+    <baseString>%s戦隊を撃破しました</baseString>
+    <target>%s squadron destroyed</target>
+  </Table1>
+  <Table1>
+    <sort>152</sort>
+    <baseString>%sを占領しました</baseString>
+    <target>%s occupied</target>
+  </Table1>
+  <Table1>
+    <sort>153</sort>
+    <baseString>%sが占領されました</baseString>
+    <target>%s occupied %s</target>
+  </Table1>
+  <Table1>
+    <sort>154</sort>
+    <baseString>勝利戦果ポイントを獲得しました</baseString>
+    <target>victory victory points earned</target>
+  </Table1>
+  <Table1>
+    <sort>155</sort>
+    <baseString>敵が勝利戦果ポイントを満たしました</baseString>
+    <target>Enemy has won victory battle points</target>
+  </Table1>
+  <Table1>
+    <sort>156</sort>
+    <baseString>ゲーム時間が終了しました</baseString>
+    <target>Game time is over Fight points earned</target>
+  </Table1>
+  <Table1>
+    <sort>157</sort>
+    <baseString>戦果ポイント勝利まであと%sポイントです</baseString>
+    <target>%s points until victory</target>
+  </Table1>
+  <Table1>
+    <sort>158</sort>
+    <baseString>%sの%sが総司令官になりました</baseString>
+    <target>Total %s %s has become</target>
+  </Table1>
+  <Table1>
+    <sort>159</sort>
+    <baseString>総司令官%s戦隊が撃破されました</baseString>
+    <target>Commander Commander %s Squadron has been destroyed</target>
+  </Table1>
+  <Table1>
+    <sort>160</sort>
+    <baseString>総司令官%s戦隊を撃破しました</baseString>
+    <target>Commander the public sector% s squadron was defeated</target>
+  </Table1>
+  <Table1>
+    <sort>161</sort>
+    <baseString>全ての拠点を占領しました</baseString>
+    <target>was occupied all of the base</target>
+  </Table1>
+  <Table1>
+    <sort>162</sort>
+    <baseString>全ての拠点が占領されました</baseString>
+    <target>all the bases have been occupied</target>
+  </Table1>
+  <Table1>
+    <sort>200</sort>
+    <baseString xml:space="preserve">　　</baseString>
+    <target xml:space="preserve">　　</target>
+  </Table1>
+  <Table1>
+    <sort>201</sort>
+    <baseString>准尉</baseString>
+    <target>Warrant officer</target>
+  </Table1>
+  <Table1>
+    <sort>202</sort>
+    <baseString>少尉</baseString>
+    <target>Second Lieutenant</target>
+  </Table1>
+  <Table1>
+    <sort>203</sort>
+    <baseString>中尉</baseString>
+    <target>Lieutenant</target>
+  </Table1>
+  <Table1>
+    <sort>204</sort>
+    <baseString>大尉</baseString>
+    <target>Captain</target>
+  </Table1>
+  <Table1>
+    <sort>205</sort>
+    <baseString>少佐</baseString>
+    <target>Major</target>
+  </Table1>
+  <Table1>
+    <sort>206</sort>
+    <baseString>中佐</baseString>
+    <target>Lieutenant Colonel</target>
+  </Table1>
+  <Table1>
+    <sort>207</sort>
+    <baseString>大佐</baseString>
+    <target>Colonel</target>
+  </Table1>
+  <Table1>
+    <sort>208</sort>
+    <baseString>准将</baseString>
+    <target>Brigadier General</target>
+  </Table1>
+  <Table1>
+    <sort>209</sort>
+    <baseString>少将</baseString>
+    <target>Major General</target>
+  </Table1>
+  <Table1>
+    <sort>210</sort>
+    <baseString>中将</baseString>
+    <target>Lieutenant General</target>
+  </Table1>
+  <Table1>
+    <sort>211</sort>
+    <baseString>大将</baseString>
+    <target>General</target>
+  </Table1>
+  <Table1>
+    <sort>212</sort>
+    <baseString>上級大将</baseString>
+    <target>Colonel General</target>
+  </Table1>
+  <Table1>
+    <sort>213</sort>
+    <baseString>元帥</baseString>
+    <target>Field Marshal</target>
+  </Table1>
+  <Table1>
+    <sort>300</sort>
+    <baseString>出撃させる部隊を選んでください。</baseString>
+    <target>Please choose the force to sortie.</target>
+  </Table1>
+  <Table1>
+    <sort>301</sort>
+    <baseString>占領戦から離脱させる部隊を選んでください。</baseString>
+    <target>Choose the units that you want to leave the occupation battle.</target>
+  </Table1>
+  <Table1>
+    <sort>302</sort>
+    <baseString>特技を選んでください</baseString>
+    <target>Select a</target>
+  </Table1>
+  <Table1>
+    <sort>303</sort>
+    <baseString>特技を使用しますか？</baseString>
+    <target>feat Do you use feats?</target>
+  </Table1>
+  <Table1>
+    <sort>304</sort>
+    <baseString>ミサイルを発射しますか？</baseString>
+    <target>Would you like to launch a missile?</target>
+  </Table1>
+  <Table1>
+    <sort>400</sort>
+    <baseString>銀河帝国</baseString>
+    <target>Galactic Empire</target>
+  </Table1>
+  <Table1>
+    <sort>401</sort>
+    <baseString>自由惑星同盟</baseString>
+    <target>Free Planet Alliance</target>
+  </Table1>
+  <Table1>
+    <sort>402</sort>
+    <baseString>貴族連合</baseString>
+    <target>Aristocratic Union</target>
+  </Table1>
+  <Table1>
+    <sort>403</sort>
+    <baseString>救国軍事会議</baseString>
+    <target>Salvation Military Conference</target>
+  </Table1>
+  <Table1>
+    <sort>404</sort>
+    <baseString>カストロプ</baseString>
+    <target>Castrop</target>
+  </Table1>
+  <Table1>
+    <sort>405</sort>
+    <baseString>中立</baseString>
+    <target>Neutral</target>
+  </Table1>
+  <Table1>
+    <sort>406</sort>
+    <baseString>海賊</baseString>
+    <target>Pirate</target>
+  </Table1>
+  <Table1>
+    <sort>407</sort>
+    <baseString>通信対戦用帝国０</baseString>
+    <target>Communications Battle Empire 0</target>
+  </Table1>
+  <Table1>
+    <sort>408</sort>
+    <baseString>通信対戦用帝国１</baseString>
+    <target>Communications Battle Empire 1</target>
+  </Table1>
+  <Table1>
+    <sort>409</sort>
+    <baseString>通信対戦用帝国２</baseString>
+    <target>Communications Battle Empire 2</target>
+  </Table1>
+  <Table1>
+    <sort>410</sort>
+    <baseString>通信対戦用帝国３</baseString>
+    <target>Communications Battle Empire 3</target>
+  </Table1>
+  <Table1>
+    <sort>411</sort>
+    <baseString>通信対戦用同盟０</baseString>
+    <target>Communications Battle Alliance 0</target>
+  </Table1>
+  <Table1>
+    <sort>412</sort>
+    <baseString>通信対戦用同盟１</baseString>
+    <target>Communications Battle Alliance 1</target>
+  </Table1>
+  <Table1>
+    <sort>413</sort>
+    <baseString>通信対戦用同盟２</baseString>
+    <target>Communication fighting alliance 2</target>
+  </Table1>
+  <Table1>
+    <sort>414</sort>
+    <baseString>通信対戦用同盟３</baseString>
+    <target>alliance for communication competition 3</target>
+  </Table1>
+  <Table1>
+    <sort>500</sort>
+    <baseString>横陣</baseString>
+    <target>horizontal team</target>
+  </Table1>
+  <Table1>
+    <sort>501</sort>
+    <baseString>縦陣</baseString>
+    <target>Jujin</target>
+  </Table1>
+  <Table1>
+    <sort>502</sort>
+    <baseString>紡錘陣</baseString>
+    <target>spindle team</target>
+  </Table1>
+  <Table1>
+    <sort>503</sort>
+    <baseString>方陣</baseString>
+    <target>square</target>
+  </Table1>
+  <Table1>
+    <sort>504</sort>
+    <baseString>鶴翼陣</baseString>
+    <target>TsuruTsubasajin</target>
+  </Table1>
+  <Table1>
+    <sort>505</sort>
+    <baseString>円陣</baseString>
+    <target>circle</target>
+  </Table1>
+  <Table1>
+    <sort>506</sort>
+    <baseString>散開</baseString>
+    <target>spread out</target>
+  </Table1>
+  <Table1>
+    <sort>510</sort>
+    <baseString>横陣形</baseString>
+    <target>next to formation</target>
+  </Table1>
+  <Table1>
+    <sort>511</sort>
+    <baseString>縦陣形</baseString>
+    <target>vertical formation</target>
+  </Table1>
+  <Table1>
+    <sort>38402</sort>
+    <baseString>a錘陣形</baseString>
+    <target>a spindle formation</target>
+  </Table1>
+  <Table1>
+    <sort>513</sort>
+    <baseString>方陣形</baseString>
+    <target>square-shaped</target>
+  </Table1>
+  <Table1>
+    <sort>514</sort>
+    <baseString>鶴翼陣形</baseString>
+    <target>TsuruTsubasa formation</target>
+  </Table1>
+  <Table1>
+    <sort>515</sort>
+    <baseString>円陣形</baseString>
+    <target>circle-shaped</target>
+  </Table1>
+  <Table1>
+    <sort>516</sort>
+    <baseString>陣形なし</baseString>
+    <target>formation without the</target>
+  </Table1>
+  <Table1>
+    <sort>600</sort>
+    <baseString>ミサイル</baseString>
+    <target>missile</target>
+  </Table1>
+  <Table1>
+    <sort>601</sort>
+    <baseString>移動／攻撃</baseString>
+    <target>move / attack</target>
+  </Table1>
+  <Table1>
+    <sort>602</sort>
+    <baseString>偽装</baseString>
+    <target>disguised</target>
+  </Table1>
+  <Table1>
+    <sort>603</sort>
+    <baseString>空戦</baseString>
+    <target>air combat</target>
+  </Table1>
+  <Table1>
+    <sort>604</sort>
+    <baseString>包囲</baseString>
+    <target>siege</target>
+  </Table1>
+  <Table1>
+    <sort>605</sort>
+    <baseString>突撃</baseString>
+    <target>assault</target>
+  </Table1>
+  <Table1>
+    <sort>606</sort>
+    <baseString>防御</baseString>
+    <target>defense</target>
+  </Table1>
+  <Table1>
+    <sort>607</sort>
+    <baseString>陣形変化</baseString>
+    <target>formation change</target>
+  </Table1>
+  <Table1>
+    <sort>608</sort>
+    <baseString>停止</baseString>
+    <target>stop</target>
+  </Table1>
+  <Table1>
+    <sort>609</sort>
+    <baseString>撤退</baseString>
+    <target>withdrawal</target>
+  </Table1>
+  <Table1>
+    <sort>610</sort>
+    <baseString>特技</baseString>
+    <target>feats</target>
+  </Table1>
+  <Table1>
+    <sort>611</sort>
+    <baseString>分割</baseString>
+    <target>division</target>
+  </Table1>
+  <Table1>
+    <sort>612</sort>
+    <baseString>合流</baseString>
+    <target>joined</target>
+  </Table1>
+  <Table1>
+    <sort>613</sort>
+    <baseString>右翼</baseString>
+    <target>the right-wing</target>
+  </Table1>
+  <Table1>
+    <sort>614</sort>
+    <baseString>左翼</baseString>
+    <target>left-wing</target>
+  </Table1>
+  <Table1>
+    <sort>615</sort>
+    <baseString>戻る</baseString>
+    <target>Back</target>
+  </Table1>
+  <Table1>
+    <sort>616</sort>
+    <baseString>艦隊出撃</baseString>
+    <target>fleet sortie</target>
+  </Table1>
+  <Table1>
+    <sort>617</sort>
+    <baseString>要塞砲射撃</baseString>
+    <target>coastal artillery fire</target>
+  </Table1>
+  <Table1>
+    <sort>618</sort>
+    <baseString>偵察</baseString>
+    <target>reconnaissance</target>
+  </Table1>
+  <Table1>
+    <sort>619</sort>
+    <baseString>攻撃</baseString>
+    <target>attack</target>
+  </Table1>
+  <Table1>
+    <sort>620</sort>
+    <baseString>防空</baseString>
+    <target>air defense</target>
+  </Table1>
+  <Table1>
+    <sort>621</sort>
+    <baseString>離脱</baseString>
+    <target>detachment</target>
+  </Table1>
+  <Table1>
+    <sort>650</sort>
+    <baseString>ステージ情報</baseString>
+    <target>stage information</target>
+  </Table1>
+  <Table1>
+    <sort>651</sort>
+    <baseString>グリッド</baseString>
+    <target>grid</target>
+  </Table1>
+  <Table1>
+    <sort>652</sort>
+    <baseString>ブロック</baseString>
+    <target>block</target>
+  </Table1>
+  <Table1>
+    <sort>653</sort>
+    <baseString>アイコン</baseString>
+    <target>icon</target>
+  </Table1>
+  <Table1>
+    <sort>654</sort>
+    <baseString>マーカー</baseString>
+    <target>marker</target>
+  </Table1>
+  <Table1>
+    <sort>655</sort>
+    <baseString>特技ゲージ</baseString>
+    <target>feat gauge</target>
+  </Table1>
+  <Table1>
+    <sort>700</sort>
+    <baseString>現在のゲームをはじめからやり直しますか？</baseString>
+    <target>do you start over from the beginning of the current game?</target>
+  </Table1>
+  <Table1>
+    <sort>701</sort>
+    <baseString>現在の戦闘を中止し、タイトルメニューに戻りますか？</baseString>
+    <target>Would you like to cancel the current battle and return to the title menu?</target>
+  </Table1>
+  <Table1>
+    <sort>702</sort>
+    <baseString>現在の対戦を終了しますか？</baseString>
+    <target>Are you sure you want to end the current match?</target>
+  </Table1>
+  <Table1>
+    <sort>703</sort>
+    <baseString>ホストプレイヤーは対戦を中断することが出来ません</baseString>
+    <target>Host player can't</target>
+  </Table1>
+  <Table1>
+    <sort>704</sort>
+    <baseString>総司令官は対戦を中断することが出来ません</baseString>
+    <target>interrupt the battle General Commander can't interrupt the</target>
+  </Table1>
+  <Table1>
+    <sort>705</sort>
+    <baseString>現在行っている戦闘データは保存されません。</baseString>
+    <target>battle The current battle data is not saved.</target>
+  </Table1>
+  <Table1>
+    <sort>800</sort>
+    <baseString>標準型戦艦</baseString>
+    <target>Standard type battleship</target>
+  </Table1>
+  <Table1>
+    <sort>801</sort>
+    <baseString>高速戦艦</baseString>
+    <target>high-speed battleship</target>
+  </Table1>
+  <Table1>
+    <sort>802</sort>
+    <baseString>巡航艦</baseString>
+    <target>cruiser</target>
+  </Table1>
+  <Table1>
+    <sort>803</sort>
+    <baseString>駆逐艦</baseString>
+    <target>destroyer</target>
+  </Table1>
+  <Table1>
+    <sort>804</sort>
+    <baseString>空母</baseString>
+    <target>aircraft carrier</target>
+  </Table1>
+  <Table1>
+    <sort>805</sort>
+    <baseString>ミサイル艦</baseString>
+    <target>missile</target>
+  </Table1>
+  <Table1>
+    <sort>810</sort>
+    <baseString>最も高い防御力と高い射撃戦闘力を持つ
+ミサイル搭載　○　戦闘艇搭載　○</baseString>
+    <target>equipped missile with the highest defense and high shooting combat ability ○ equipped with a combat boat ○ equipped with a missile that possesses</target>
+  </Table1>
+  <Table1>
+    <sort>811</sort>
+    <baseString>戦艦並みの戦闘力と高い機動力を併せ持つ
+ミサイル搭載　○　戦闘艇搭載　○</baseString>
+    <target>battleship-like combat power and high mobility ○ equipped with a combat boat ○</target>
+  </Table1>
+  <Table1>
+    <sort>812</sort>
+    <baseString>射撃戦で威力を発揮する。ミサイルも高威力
+ミサイル搭載　○　戦闘艇搭載　－</baseString>
+    <target>shooting battle Demonstrate the power. Missile also high-power missile ○ combat boat equipped -</target>
+  </Table1>
+  <Table1>
+    <sort>813</sort>
+    <baseString>長距離砲のかわりにミサイルを多数搭載
+ミサイル搭載　◎　戦闘艇搭載　－</baseString>
+    <target>equipped with a large number of missiles in place of the long-range artillery missile ◎ combat boat equipped -</target>
+  </Table1>
+  <Table1>
+    <sort>814</sort>
+    <baseString>長距離砲を持たないが接近戦で威力を発揮
+ミサイル搭載　－　戦闘艇搭載　－</baseString>
+    <target>does not have the long-range gun but exert missile equipped with a power in close combat - combat boat equipped -</target>
+  </Table1>
+  <Table1>
+    <sort>815</sort>
+    <baseString>多数の戦闘艇を搭載。レーダー範囲も広い
+ミサイル搭載　－　戦闘艇搭載　◎</baseString>
+    <target>a large number of Equipped with a combat boat. Radar range is also wide missile - combat boat equipped ◎</target>
+  </Table1>
+  <Table1>
+    <sort>1000</sort>
+    <baseString>銀河帝国</baseString>
+    <target>Galactic Empire</target>
+  </Table1>
+  <Table1>
+    <sort>1001</sort>
+    <baseString>自由惑星同盟</baseString>
+    <target>free planet alliance</target>
+  </Table1>
+  <Table1>
+    <sort>1002</sort>
+    <baseString>艦隊</baseString>
+    <target>fleet</target>
+  </Table1>
+  <Table1>
+    <sort>1003</sort>
+    <baseString>中央戦隊</baseString>
+    <target>center squadron</target>
+  </Table1>
+  <Table1>
+    <sort>1004</sort>
+    <baseString>右翼戦隊</baseString>
+    <target>right-wing squadron</target>
+  </Table1>
+  <Table1>
+    <sort>1005</sort>
+    <baseString>左翼戦隊</baseString>
+    <target>left wing squadron</target>
+  </Table1>
+  <Table1>
+    <sort>1006</sort>
+    <baseString>戦隊</baseString>
+    <target>squadron</target>
+  </Table1>
+  <Table1>
+    <sort>1007</sort>
+    <baseString>部隊</baseString>
+    <target>troops</target>
+  </Table1>
+  <Table1>
+    <sort>1008</sort>
+    <baseString>艦船</baseString>
+    <target>ship</target>
+  </Table1>
+  <Table1>
+    <sort>1009</sort>
+    <baseString>戦闘艇</baseString>
+    <target>battle boat</target>
+  </Table1>
+  <Table1>
+    <sort>1010</sort>
+    <baseString>要塞</baseString>
+    <target>fortress</target>
+  </Table1>
+  <Table1>
+    <sort>1011</sort>
+    <baseString>惑星</baseString>
+    <target>planet</target>
+  </Table1>
+  <Table1>
+    <sort>1012</sort>
+    <baseString>司令官</baseString>
+    <target>commander</target>
+  </Table1>
+  <Table1>
+    <sort>1013</sort>
+    <baseString>参謀</baseString>
+    <target>General Staff</target>
+  </Table1>
+  <Table1>
+    <sort>1014</sort>
+    <baseString>中央</baseString>
+    <target>center</target>
+  </Table1>
+  <Table1>
+    <sort>1015</sort>
+    <baseString>主翼</baseString>
+    <target>wing</target>
+  </Table1>
+  <Table1>
+    <sort>1016</sort>
+    <baseString>右翼</baseString>
+    <target>right wing</target>
+  </Table1>
+  <Table1>
+    <sort>1017</sort>
+    <baseString>左翼</baseString>
+    <target>left wing</target>
+  </Table1>
+  <Table1>
+    <sort>1018</sort>
+    <baseString>キャンセル</baseString>
+    <target>cancellation</target>
+  </Table1>
+  <Table1>
+    <sort>1019</sort>
+    <baseString>システム</baseString>
+    <target>system</target>
+  </Table1>
+  <Table1>
+    <sort>1020</sort>
+    <baseString>残り時間</baseString>
+    <target>The remaining time</target>
+  </Table1>
+  <Table1>
+    <sort>1021</sort>
+    <baseString>勝利条件</baseString>
+    <target>victory conditions</target>
+  </Table1>
+  <Table1>
+    <sort>1022</sort>
+    <baseString>戦果ポイント</baseString>
+    <target>veterans point</target>
+  </Table1>
+  <Table1>
+    <sort>1023</sort>
+    <baseString>宇宙空間</baseString>
+    <target>space</target>
+  </Table1>
+  <Table1>
+    <sort>35076</sort>
+    <baseString>F宙空間へ戻る</baseString>
+    <target>F Chu Back to the space</target>
+  </Table1>
+  <Table1>
+    <sort>1025</sort>
+    <baseString>コマンド</baseString>
+    <target>command</target>
+  </Table1>
+  <Table1>
+    <sort>1026</sort>
+    <baseString>士気</baseString>
+    <target>morale</target>
+  </Table1>
+  <Table1>
+    <sort>1027</sort>
+    <baseString>修理</baseString>
+    <target>repair</target>
+  </Table1>
+  <Table1>
+    <sort>1028</sort>
+    <baseString>上空戦</baseString>
+    <target>sky against</target>
+  </Table1>
+  <Table1>
+    <sort>1029</sort>
+    <baseString>占領中</baseString>
+    <target>occupation in</target>
+  </Table1>
+  <Table1>
+    <sort>1030</sort>
+    <baseString>上空戦中</baseString>
+    <target>the sky during the war</target>
+  </Table1>
+  <Table1>
+    <sort>1031</sort>
+    <baseString>航行中</baseString>
+    <target>underway</target>
+  </Table1>
+  <Table1>
+    <sort>1032</sort>
+    <baseString>撤退中</baseString>
+    <target>in retreat</target>
+  </Table1>
+  <Table1>
+    <sort>1033</sort>
+    <baseString>駐留中</baseString>
+    <target>during stationed</target>
+  </Table1>
+  <Table1>
+    <sort>1034</sort>
+    <baseString>合流中</baseString>
+    <target>in the confluence</target>
+  </Table1>
+  <Table1>
+    <sort>1035</sort>
+    <baseString>戦闘中</baseString>
+    <target>during the battle</target>
+  </Table1>
+  <Table1>
+    <sort>1036</sort>
+    <baseString>無力化</baseString>
+    <target>powerless</target>
+  </Table1>
+  <Table1>
+    <sort>1037</sort>
+    <baseString>接近戦</baseString>
+    <target>close combat</target>
+  </Table1>
+  <Table1>
+    <sort>1038</sort>
+    <baseString>士気減少</baseString>
+    <target>morale decrease</target>
+  </Table1>
+  <Table1>
+    <sort>1039</sort>
+    <baseString>攻撃</baseString>
+    <target>attack</target>
+  </Table1>
+  <Table1>
+    <sort>1040</sort>
+    <baseString>防御</baseString>
+    <target>defense</target>
+  </Table1>
+  <Table1>
+    <sort>1041</sort>
+    <baseString>機動</baseString>
+    <target>maneuver</target>
+  </Table1>
+  <Table1>
+    <sort>1042</sort>
+    <baseString>暗礁地帯</baseString>
+    <target>reef zone</target>
+  </Table1>
+  <Table1>
+    <sort>1043</sort>
+    <baseString>対空</baseString>
+    <target>anti-aircraft</target>
+  </Table1>
+  <Table1>
+    <sort>1044</sort>
+    <baseString>＋</baseString>
+    <target>+</target>
+  </Table1>
+  <Table1>
+    <sort>1045</sort>
+    <baseString>－</baseString>
+    <target>-</target>
+  </Table1>
+  <Table1>
+    <sort>1046</sort>
+    <baseString>（</baseString>
+    <target>(</target>
+  </Table1>
+  <Table1>
+    <sort>1047</sort>
+    <baseString>）</baseString>
+    <target>)</target>
+  </Table1>
+  <Table1>
+    <sort>1048</sort>
+    <baseString>：</baseString>
+    <target>:</target>
+  </Table1>
+  <Table1>
+    <sort>1049</sort>
+    <baseString>陣形</baseString>
+    <target>formation</target>
+  </Table1>
+  <Table1>
+    <sort>1050</sort>
+    <baseString>形</baseString>
+    <target>shape</target>
+  </Table1>
+  <Table1>
+    <sort>1051</sort>
+    <baseString>変更</baseString>
+    <target>change</target>
+  </Table1>
+  <Table1>
+    <sort>1052</sort>
+    <baseString>崩壊</baseString>
+    <target>collapse</target>
+  </Table1>
+  <Table1>
+    <sort>1053</sort>
+    <baseString>勝利</baseString>
+    <target>victory</target>
+  </Table1>
+  <Table1>
+    <sort>1054</sort>
+    <baseString>敗北</baseString>
+    <target>defeat</target>
+  </Table1>
+  <Table1>
+    <sort>1055</sort>
+    <baseString>なし</baseString>
+    <target>without</target>
+  </Table1>
+  <Table1>
+    <sort>1056</sort>
+    <baseString>統率</baseString>
+    <target>leadership</target>
+  </Table1>
+  <Table1>
+    <sort>1057</sort>
+    <baseString>砲撃</baseString>
+    <target>shelling</target>
+  </Table1>
+  <Table1>
+    <sort>1058</sort>
+    <baseString>空戦</baseString>
+    <target>air combat</target>
+  </Table1>
+  <Table1>
+    <sort>1059</sort>
+    <baseString>武勲</baseString>
+    <target>deeds of arms</target>
+  </Table1>
+  <Table1>
+    <sort>1060</sort>
+    <baseString>特技</baseString>
+    <target>feat</target>
+  </Table1>
+  <Table1>
+    <sort>1061</sort>
+    <baseString>提督</baseString>
+    <target>Admiral</target>
+  </Table1>
+  <Table1>
+    <sort>1062</sort>
+    <baseString>名</baseString>
+    <target>name</target>
+  </Table1>
+  <Table1>
+    <sort>1063</sort>
+    <baseString>名前</baseString>
+    <target>name</target>
+  </Table1>
+  <Table1>
+    <sort>1064</sort>
+    <baseString>レベル</baseString>
+    <target>level</target>
+  </Table1>
+  <Table1>
+    <sort>1065</sort>
+    <baseString>Lv.</baseString>
+    <target>Lv.</target>
+  </Table1>
+  <Table1>
+    <sort>1066</sort>
+    <baseString>獲得</baseString>
+    <target>won</target>
+  </Table1>
+  <Table1>
+    <sort>1067</sort>
+    <baseString>戦果</baseString>
+    <target>veterans</target>
+  </Table1>
+  <Table1>
+    <sort>1068</sort>
+    <baseString>損害</baseString>
+    <target>damage</target>
+  </Table1>
+  <Table1>
+    <sort>1069</sort>
+    <baseString>制圧</baseString>
+    <target>conquered</target>
+  </Table1>
+  <Table1>
+    <sort>1070</sort>
+    <baseString>殲滅</baseString>
+    <target>annihilate</target>
+  </Table1>
+  <Table1>
+    <sort>1071</sort>
+    <baseString>戦闘</baseString>
+    <target>battle</target>
+  </Table1>
+  <Table1>
+    <sort>1072</sort>
+    <baseString>結果</baseString>
+    <target>Result</target>
+  </Table1>
+  <Table1>
+    <sort>1073</sort>
+    <baseString>難易度</baseString>
+    <target>difficulty</target>
+  </Table1>
+  <Table1>
+    <sort>1074</sort>
+    <baseString>「</baseString>
+    <target>"</target>
+  </Table1>
+  <Table1>
+    <sort>1075</sort>
+    <baseString>」</baseString>
+    <target>"</target>
+  </Table1>
+  <Table1>
+    <sort>1076</sort>
+    <baseString>？</baseString>
+    <target>?</target>
+  </Table1>
+  <Table1>
+    <sort>1077</sort>
+    <baseString>分</baseString>
+    <target>Minute</target>
+  </Table1>
+  <Table1>
+    <sort>1078</sort>
+    <baseString>ステージ</baseString>
+    <target>stage</target>
+  </Table1>
+  <Table1>
+    <sort>1079</sort>
+    <baseString>あり</baseString>
+    <target>there is</target>
+  </Table1>
+  <Table1>
+    <sort>1080</sort>
+    <baseString>なし</baseString>
+    <target>no</target>
+  </Table1>
+  <Table1>
+    <sort>1081</sort>
+    <baseString>ゲーム</baseString>
+    <target>game</target>
+  </Table1>
+  <Table1>
+    <sort>1082</sort>
+    <baseString>時間</baseString>
+    <target>time</target>
+  </Table1>
+  <Table1>
+    <sort>1083</sort>
+    <baseString>○</baseString>
+    <target>○</target>
+  </Table1>
+  <Table1>
+    <sort>1084</sort>
+    <baseString>戦果ポイント%sを獲得</baseString>
+    <target>veterans point% s acquisition</target>
+  </Table1>
+  <Table1>
+    <sort>1085</sort>
+    <baseString>敵艦隊の撃破</baseString>
+    <target>enemy fleet of the defeated</target>
+  </Table1>
+  <Table1>
+    <sort>1086</sort>
+    <baseString>総司令官撃破</baseString>
+    <target>commander-in-chief defeated</target>
+  </Table1>
+  <Table1>
+    <sort>1087</sort>
+    <baseString>全拠点制圧</baseString>
+    <target>all sites Suppression</target>
+  </Table1>
+  <Table1>
+    <sort>1088</sort>
+    <baseString>有効</baseString>
+    <target>Enable</target>
+  </Table1>
+  <Table1>
+    <sort>1089</sort>
+    <baseString>無効</baseString>
+    <target>Disable</target>
+  </Table1>
+  <Table1>
+    <sort>1090</sort>
+    <baseString>すべて</baseString>
+    <target>all</target>
+  </Table1>
+  <Table1>
+    <sort>1091</sort>
+    <baseString>ゲーマータグ</baseString>
+    <target>gamer tag</target>
+  </Table1>
+  <Table1>
+    <sort>1092</sort>
+    <baseString>銀河英雄伝説</baseString>
+    <target>Legend of the Galactic Heroes</target>
+  </Table1>
+  <Table1>
+    <sort>1093</sort>
+    <baseString>、</baseString>
+    <target>,</target>
+  </Table1>
+  <Table1>
+    <sort>1094</sort>
+    <baseString>ＰＡＵＳＥ</baseString>
+    <target>PAUSE</target>
+  </Table1>
+  <Table1>
+    <sort>2000</sort>
+    <baseString>ロードが完了しました。</baseString>
+    <target>load is complete.</target>
+  </Table1>
+  <Table1>
+    <sort>2001</sort>
+    <baseString>現在のアカウントに対するユーザーデータは存在しません。
+新規作成します。</baseString>
+    <target>No user data exists for the current account. Create a new one.</target>
+  </Table1>
+  <Table1>
+    <sort>2002</sort>
+    <baseString>キャンペーンクリアデータのロードに失敗しました。
+データファイルがありません。</baseString>
+    <target>Failed to load the campaign clear data. There is no data file.</target>
+  </Table1>
+  <Table1>
+    <sort>2010</sort>
+    <baseString>キャンペーンクリアデータを削除します。
+よろしいですか？</baseString>
+    <target>Delete the campaign clear data. Is it OK?</target>
+  </Table1>
+  <Table1>
+    <sort>2011</sort>
+    <baseString>削除しました。</baseString>
+    <target>It has been deleted.</target>
+  </Table1>
+  <Table1>
+    <sort>2020</sort>
+    <baseString>データの削除に失敗しました。
+サインインしてください。</baseString>
+    <target>Failed to delete the data. Please sign in.</target>
+  </Table1>
+  <Table1>
+    <sort>2021</sort>
+    <baseString>データの削除に失敗しました。
+ディスク容量不足です。</baseString>
+    <target>Failed to delete the data. Not enough disk space.</target>
+  </Table1>
+  <Table1>
+    <sort>2022</sort>
+    <baseString>データの削除に失敗しました。
+書き込み権限がありません。</baseString>
+    <target>Failed to delete the data. You do not have write permission.</target>
+  </Table1>
+  <Table1>
+    <sort>2023</sort>
+    <baseString>データの削除に失敗しました。
+予期しないエラーです。</baseString>
+    <target>Failed to delete the data. Unexpected error.</target>
+  </Table1>
+  <Table1>
+    <sort>2024</sort>
+    <baseString>データの削除に失敗しました。
+削除処理中にサインアウトされました。</baseString>
+    <target>Failed to delete the data. You were signed out during the deletion process.</target>
+  </Table1>
+  <Table1>
+    <sort>2025</sort>
+    <baseString>データの削除に失敗しました。
+データファイルがありません。</baseString>
+    <target>Failed to delete the data. There is no data file.</target>
+  </Table1>
+  <Table1>
+    <sort>2030</sort>
+    <baseString>ロードするデータを選んでください。</baseString>
+    <target>Select the data to load.</target>
+  </Table1>
+  <Table1>
+    <sort>2031</sort>
+    <baseString>セーブするデータを選んでください。</baseString>
+    <target>Select the data to save.</target>
+  </Table1>
+  <Table1>
+    <sort>2032</sort>
+    <baseString>STAGE%02d %s</baseString>
+    <target>STAGE%02d %s</target>
+  </Table1>
+  <Table1>
+    <sort>2033</sort>
+    <baseString> をクリア</baseString>
+    <target>cleared Clear</target>
+  </Table1>
+  <Table1>
+    <sort>2034</sort>
+    <baseString>銀河英雄伝説セーブデータ</baseString>
+    <target>Legend of the Galactic Heroes Save Data Saving</target>
+  </Table1>
+  <Table1>
+    <sort>2035</sort>
+    <baseString>オプション設定をセーブ中...</baseString>
+    <target>Option Settings... Saving</target>
+  </Table1>
+  <Table1>
+    <sort>2036</sort>
+    <baseString>キャンペーンクリア情報をセーブ中...</baseString>
+    <target>Campaign Clearing Information...</target>
+  </Table1>
+  <Table1>
+    <sort>2040</sort>
+    <baseString>オプション設定のセーブに失敗しました。
+サインインしてください。</baseString>
+    <target>Failed to save option settings. Please sign in.</target>
+  </Table1>
+  <Table1>
+    <sort>2041</sort>
+    <baseString>オプション設定のセーブに失敗しました。
+ディスク容量不足です。</baseString>
+    <target>Failed to save option settings. Not enough disk space.</target>
+  </Table1>
+  <Table1>
+    <sort>2042</sort>
+    <baseString>オプション設定のセーブに失敗しました。
+書き込み権限がありません。</baseString>
+    <target>Failed to save option settings. You do not have write permission.</target>
+  </Table1>
+  <Table1>
+    <sort>2043</sort>
+    <baseString>オプション設定のセーブに失敗しました。
+予期しないエラーです。</baseString>
+    <target>Failed to save option settings. Unexpected error.</target>
+  </Table1>
+  <Table1>
+    <sort>2044</sort>
+    <baseString>オプション設定のセーブに失敗しました。
+セーブ処理中にサインアウトされました。</baseString>
+    <target>Failed to save option settings. You were signed out during the save process.</target>
+  </Table1>
+  <Table1>
+    <sort>2050</sort>
+    <baseString>ロードします。よろしいですか？</baseString>
+    <target>Load Is it OK?</target>
+  </Table1>
+  <Table1>
+    <sort>2100</sort>
+    <baseString>BackSpace</baseString>
+    <target>BackSpace</target>
+  </Table1>
+  <Table1>
+    <sort>2101</sort>
+    <baseString>Tab</baseString>
+    <target>Tab</target>
+  </Table1>
+  <Table1>
+    <sort>2102</sort>
+    <baseString>Enter</baseString>
+    <target>Enter</target>
+  </Table1>
+  <Table1>
+    <sort>2103</sort>
+    <baseString>Esc</baseString>
+    <target>Esc</target>
+  </Table1>
+  <Table1>
+    <sort>2104</sort>
+    <baseString>Space</baseString>
+    <target>Space</target>
+  </Table1>
+  <Table1>
+    <sort>2105</sort>
+    <baseString>PageUp</baseString>
+    <target>PageUp</target>
+  </Table1>
+  <Table1>
+    <sort>2106</sort>
+    <baseString>PageDown</baseString>
+    <target>PageDown</target>
+  </Table1>
+  <Table1>
+    <sort>2107</sort>
+    <baseString>End</baseString>
+    <target>End</target>
+  </Table1>
+  <Table1>
+    <sort>2108</sort>
+    <baseString>Insert</baseString>
+    <target>Insert</target>
+  </Table1>
+  <Table1>
+    <sort>2109</sort>
+    <baseString>Delete</baseString>
+    <target>Delete</target>
+  </Table1>
+  <Table1>
+    <sort>2110</sort>
+    <baseString>0</baseString>
+    <target>0</target>
+  </Table1>
+  <Table1>
+    <sort>2111</sort>
+    <baseString>1</baseString>
+    <target>1</target>
+  </Table1>
+  <Table1>
+    <sort>2112</sort>
+    <baseString>2</baseString>
+    <target>2</target>
+  </Table1>
+  <Table1>
+    <sort>2113</sort>
+    <baseString>3</baseString>
+    <target>3</target>
+  </Table1>
+  <Table1>
+    <sort>2114</sort>
+    <baseString>4</baseString>
+    <target>4</target>
+  </Table1>
+  <Table1>
+    <sort>2115</sort>
+    <baseString>5</baseString>
+    <target>5</target>
+  </Table1>
+  <Table1>
+    <sort>2116</sort>
+    <baseString>6</baseString>
+    <target>6</target>
+  </Table1>
+  <Table1>
+    <sort>2117</sort>
+    <baseString>7</baseString>
+    <target>7</target>
+  </Table1>
+  <Table1>
+    <sort>2118</sort>
+    <baseString>8</baseString>
+    <target>8</target>
+  </Table1>
+  <Table1>
+    <sort>2119</sort>
+    <baseString>9</baseString>
+    <target>9</target>
+  </Table1>
+  <Table1>
+    <sort>2120</sort>
+    <baseString>A</baseString>
+    <target>A</target>
+  </Table1>
+  <Table1>
+    <sort>2121</sort>
+    <baseString>B</baseString>
+    <target>B</target>
+  </Table1>
+  <Table1>
+    <sort>2122</sort>
+    <baseString>C</baseString>
+    <target>C</target>
+  </Table1>
+  <Table1>
+    <sort>2123</sort>
+    <baseString>D</baseString>
+    <target>D</target>
+  </Table1>
+  <Table1>
+    <sort>2124</sort>
+    <baseString>E</baseString>
+    <target>E</target>
+  </Table1>
+  <Table1>
+    <sort>2125</sort>
+    <baseString>F</baseString>
+    <target>F</target>
+  </Table1>
+  <Table1>
+    <sort>2126</sort>
+    <baseString>G</baseString>
+    <target>G</target>
+  </Table1>
+  <Table1>
+    <sort>2127</sort>
+    <baseString>H</baseString>
+    <target>H</target>
+  </Table1>
+  <Table1>
+    <sort>2128</sort>
+    <baseString>I</baseString>
+    <target>I</target>
+  </Table1>
+  <Table1>
+    <sort>2129</sort>
+    <baseString>J</baseString>
+    <target>J</target>
+  </Table1>
+  <Table1>
+    <sort>2130</sort>
+    <baseString>K</baseString>
+    <target>K</target>
+  </Table1>
+  <Table1>
+    <sort>2131</sort>
+    <baseString>L</baseString>
+    <target>L</target>
+  </Table1>
+  <Table1>
+    <sort>2132</sort>
+    <baseString>M</baseString>
+    <target>M</target>
+  </Table1>
+  <Table1>
+    <sort>2133</sort>
+    <baseString>N</baseString>
+    <target>N</target>
+  </Table1>
+  <Table1>
+    <sort>2134</sort>
+    <baseString>O</baseString>
+    <target>O</target>
+  </Table1>
+  <Table1>
+    <sort>2135</sort>
+    <baseString>P</baseString>
+    <target>P</target>
+  </Table1>
+  <Table1>
+    <sort>2136</sort>
+    <baseString>Q</baseString>
+    <target>Q</target>
+  </Table1>
+  <Table1>
+    <sort>2137</sort>
+    <baseString>R</baseString>
+    <target>R</target>
+  </Table1>
+  <Table1>
+    <sort>2138</sort>
+    <baseString>S</baseString>
+    <target>S</target>
+  </Table1>
+  <Table1>
+    <sort>2139</sort>
+    <baseString>T</baseString>
+    <target>T</target>
+  </Table1>
+  <Table1>
+    <sort>2140</sort>
+    <baseString>U</baseString>
+    <target>U</target>
+  </Table1>
+  <Table1>
+    <sort>2141</sort>
+    <baseString>V</baseString>
+    <target>V</target>
+  </Table1>
+  <Table1>
+    <sort>2142</sort>
+    <baseString>W</baseString>
+    <target>W</target>
+  </Table1>
+  <Table1>
+    <sort>2143</sort>
+    <baseString>X</baseString>
+    <target>X</target>
+  </Table1>
+  <Table1>
+    <sort>2144</sort>
+    <baseString>Y</baseString>
+    <target>Y</target>
+  </Table1>
+  <Table1>
+    <sort>2145</sort>
+    <baseString>Z</baseString>
+    <target>Z</target>
+  </Table1>
+  <Table1>
+    <sort>2146</sort>
+    <baseString>テンキー 0</baseString>
+    <target>Keypad 0</target>
+  </Table1>
+  <Table1>
+    <sort>2147</sort>
+    <baseString>テンキー 1</baseString>
+    <target>Keypad 1</target>
+  </Table1>
+  <Table1>
+    <sort>2148</sort>
+    <baseString>テンキー 2</baseString>
+    <target>Keypad 2</target>
+  </Table1>
+  <Table1>
+    <sort>2149</sort>
+    <baseString>テンキー 3</baseString>
+    <target>Keypad 3</target>
+  </Table1>
+  <Table1>
+    <sort>2150</sort>
+    <baseString>テンキー 4</baseString>
+    <target>Keypad 4</target>
+  </Table1>
+  <Table1>
+    <sort>2151</sort>
+    <baseString>テンキー 5</baseString>
+    <target>Keypad 5</target>
+  </Table1>
+  <Table1>
+    <sort>2152</sort>
+    <baseString>テンキー 6</baseString>
+    <target>Keypad 6</target>
+  </Table1>
+  <Table1>
+    <sort>2153</sort>
+    <baseString>テンキー 7</baseString>
+    <target>Keypad 7</target>
+  </Table1>
+  <Table1>
+    <sort>2154</sort>
+    <baseString>テンキー 8</baseString>
+    <target>Keypad 8</target>
+  </Table1>
+  <Table1>
+    <sort>2155</sort>
+    <baseString>テンキー 9</baseString>
+    <target>Keypad 9</target>
+  </Table1>
+  <Table1>
+    <sort>2156</sort>
+    <baseString>テンキー *</baseString>
+    <target>Keypad *</target>
+  </Table1>
+  <Table1>
+    <sort>2157</sort>
+    <baseString>テンキー +</baseString>
+    <target>Keypad +</target>
+  </Table1>
+  <Table1>
+    <sort>2158</sort>
+    <baseString>テンキー -</baseString>
+    <target>Keypad-</target>
+  </Table1>
+  <Table1>
+    <sort>2159</sort>
+    <baseString>テンキー .</baseString>
+    <target>Keypad .</target>
+  </Table1>
+  <Table1>
+    <sort>2160</sort>
+    <baseString>テンキー /</baseString>
+    <target>numeric keypad /</target>
+  </Table1>
+  <Table1>
+    <sort>2161</sort>
+    <baseString>F1</baseString>
+    <target>F1</target>
+  </Table1>
+  <Table1>
+    <sort>2162</sort>
+    <baseString>F2</baseString>
+    <target>F2</target>
+  </Table1>
+  <Table1>
+    <sort>2163</sort>
+    <baseString>F3</baseString>
+    <target>F3</target>
+  </Table1>
+  <Table1>
+    <sort>2164</sort>
+    <baseString>F4</baseString>
+    <target>F4</target>
+  </Table1>
+  <Table1>
+    <sort>2165</sort>
+    <baseString>F5</baseString>
+    <target>F5</target>
+  </Table1>
+  <Table1>
+    <sort>2166</sort>
+    <baseString>F6</baseString>
+    <target>F6</target>
+  </Table1>
+  <Table1>
+    <sort>2167</sort>
+    <baseString>F7</baseString>
+    <target>F7</target>
+  </Table1>
+  <Table1>
+    <sort>2168</sort>
+    <baseString>F8</baseString>
+    <target>F8</target>
+  </Table1>
+  <Table1>
+    <sort>2169</sort>
+    <baseString>F9</baseString>
+    <target>F9</target>
+  </Table1>
+  <Table1>
+    <sort>2170</sort>
+    <baseString>F10</baseString>
+    <target>F10</target>
+  </Table1>
+  <Table1>
+    <sort>2171</sort>
+    <baseString>F11</baseString>
+    <target>F11</target>
+  </Table1>
+  <Table1>
+    <sort>2172</sort>
+    <baseString>F12</baseString>
+    <target>F12</target>
+  </Table1>
+  <Table1>
+    <sort>2173</sort>
+    <baseString>:</baseString>
+    <target>:</target>
+  </Table1>
+  <Table1>
+    <sort>2174</sort>
+    <baseString>;</baseString>
+    <target>;</target>
+  </Table1>
+  <Table1>
+    <sort>2175</sort>
+    <baseString>-</baseString>
+    <target>-</target>
+  </Table1>
+  <Table1>
+    <sort>2176</sort>
+    <baseString />
+    <target />
+  </Table1>
+  <Table1>
+    <sort>2177</sort>
+    <baseString>.</baseString>
+    <target>.</target>
+  </Table1>
+  <Table1>
+    <sort>2178</sort>
+    <baseString>/</baseString>
+    <target>/</target>
+  </Table1>
+  <Table1>
+    <sort>2179</sort>
+    <baseString>@</baseString>
+    <target>Atto</target>
+  </Table1>
+  <Table1>
+    <sort>2180</sort>
+    <baseString>[</baseString>
+    <target>[</target>
+  </Table1>
+  <Table1>
+    <sort>2181</sort>
+    <baseString>\</baseString>
+    <target>\</target>
+  </Table1>
+  <Table1>
+    <sort>2182</sort>
+    <baseString>]</baseString>
+    <target>]</target>
+  </Table1>
+  <Table1>
+    <sort>2183</sort>
+    <baseString>^</baseString>
+    <target>^</target>
+  </Table1>
+  <Table1>
+    <sort>2184</sort>
+    <baseString>BackSlash</baseString>
+    <target>BackSlash</target>
+  </Table1>
+  <Table1>
+    <sort>2185</sort>
+    <baseString>左Ctrl</baseString>
+    <target>left Ctrl</target>
+  </Table1>
+  <Table1>
+    <sort>2186</sort>
+    <baseString>右Ctrl</baseString>
+    <target>right Ctrl</target>
+  </Table1>
+  <Table1>
+    <sort>2187</sort>
+    <baseString>Ctrl</baseString>
+    <target>Ctrl</target>
+  </Table1>
+  <Table1>
+    <sort>2188</sort>
+    <baseString>←</baseString>
+    <target>￩</target>
+  </Table1>
+  <Table1>
+    <sort>2189</sort>
+    <baseString>↑</baseString>
+    <target>￪</target>
+  </Table1>
+  <Table1>
+    <sort>2190</sort>
+    <baseString>→</baseString>
+    <target>￫</target>
+  </Table1>
+  <Table1>
+    <sort>2191</sort>
+    <baseString>↓</baseString>
+    <target>￬</target>
+  </Table1>
+  <Table1>
+    <sort>2300</sort>
+    <baseString>オプション</baseString>
+    <target>option</target>
+  </Table1>
+  <Table1>
+    <sort>2301</sort>
+    <baseString>グラフィック</baseString>
+    <target>graphic</target>
+  </Table1>
+  <Table1>
+    <sort>2302</sort>
+    <baseString>オーディオ</baseString>
+    <target>audio</target>
+  </Table1>
+  <Table1>
+    <sort>2303</sort>
+    <baseString>キーボード</baseString>
+    <target>keyboard</target>
+  </Table1>
+  <Table1>
+    <sort>33545</sort>
+    <baseString>Qーム</baseString>
+    <target>Q over-time</target>
+  </Table1>
+  <Table1>
+    <sort>2305</sort>
+    <baseString>パッド</baseString>
+    <target>pad</target>
+  </Table1>
+  <Table1>
+    <sort>2306</sort>
+    <baseString>解像度を変更中...</baseString>
+    <target>in changing the resolution ...</target>
+  </Table1>
+  <Table1>
+    <sort>2310</sort>
+    <baseString>低画質</baseString>
+    <target>low-quality</target>
+  </Table1>
+  <Table1>
+    <sort>2311</sort>
+    <baseString>中画質</baseString>
+    <target>in image quality</target>
+  </Table1>
+  <Table1>
+    <sort>2312</sort>
+    <baseString>高画質</baseString>
+    <target>high-quality</target>
+  </Table1>
+  <Table1>
+    <sort>2313</sort>
+    <baseString>最高画質</baseString>
+    <target>highest quality</target>
+  </Table1>
+  <Table1>
+    <sort>2320</sort>
+    <baseString>この画面モードにしますか？ %d 秒で元に戻ります。</baseString>
+    <target>Do you want to this screen mode? It will revert in %d seconds.</target>
+  </Table1>
+  <Table1>
+    <sort>2321</sort>
+    <baseString>（新規作成）</baseString>
+    <target>(New)</target>
+  </Table1>
+  <Table1>
+    <sort>2322</sort>
+    <baseString>タイトルメニューに戻ります。よろしいですか？</baseString>
+    <target>Return to the title menu. Is it OK?</target>
+  </Table1>
+  <Table1>
+    <sort>2400</sort>
+    <baseString>イージー</baseString>
+    <target>Easy</target>
+  </Table1>
+  <Table1>
+    <sort>2401</sort>
+    <baseString>ノーマル</baseString>
+    <target>Normal</target>
+  </Table1>
+  <Table1>
+    <sort>2402</sort>
+    <baseString>ハード</baseString>
+    <target>Hard</target>
+  </Table1>
+  <Table1>
+    <sort>2403</sort>
+    <baseString>ベリーハード</baseString>
+    <target>Very Hard</target>
+  </Table1>
+  <Table1>
+    <sort>2410</sort>
+    <baseString>1 vs 1</baseString>
+    <target>1 vs 1</target>
+  </Table1>
+  <Table1>
+    <sort>2411</sort>
+    <baseString>2 vs 2</baseString>
+    <target>2 vs 2</target>
+  </Table1>
+  <Table1>
+    <sort>2412</sort>
+    <baseString>3 vs 3</baseString>
+    <target>3 vs 3</target>
+  </Table1>
+  <Table1>
+    <sort>2413</sort>
+    <baseString>4 vs 4</baseString>
+    <target>4 vs 4</target>
+  </Table1>
+  <Table1>
+    <sort>2415</sort>
+    <baseString>１vs１</baseString>
+    <target>1vs1</target>
+  </Table1>
+  <Table1>
+    <sort>2416</sort>
+    <baseString>２vs２</baseString>
+    <target>2vs2</target>
+  </Table1>
+  <Table1>
+    <sort>2417</sort>
+    <baseString>３vs３</baseString>
+    <target>3vs3</target>
+  </Table1>
+  <Table1>
+    <sort>2418</sort>
+    <baseString>４vs４</baseString>
+    <target>4vs4</target>
+  </Table1>
+  <Table1>
+    <sort>2420</sort>
+    <baseString>１０分</baseString>
+    <target>10 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2421</sort>
+    <baseString>１５分</baseString>
+    <target>15 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2422</sort>
+    <baseString>２０分</baseString>
+    <target>20 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2423</sort>
+    <baseString>３０分</baseString>
+    <target>30 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2424</sort>
+    <baseString>４５分</baseString>
+    <target>45 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2425</sort>
+    <baseString>６０分</baseString>
+    <target>60 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2426</sort>
+    <baseString>９０分</baseString>
+    <target>90 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2427</sort>
+    <baseString>１２０分</baseString>
+    <target>120 minutes</target>
+  </Table1>
+  <Table1>
+    <sort>2430</sort>
+    <baseString>５０００</baseString>
+    <target>5000</target>
+  </Table1>
+  <Table1>
+    <sort>2431</sort>
+    <baseString>１００００</baseString>
+    <target>10000</target>
+  </Table1>
+  <Table1>
+    <sort>2432</sort>
+    <baseString>２００００</baseString>
+    <target>20000</target>
+  </Table1>
+  <Table1>
+    <sort>2433</sort>
+    <baseString>３００００</baseString>
+    <target>30000</target>
+  </Table1>
+  <Table1>
+    <sort>2434</sort>
+    <baseString>４００００</baseString>
+    <target>40000</target>
+  </Table1>
+  <Table1>
+    <sort>2435</sort>
+    <baseString>５００００</baseString>
+    <target>50000</target>
+  </Table1>
+  <Table1>
+    <sort>2436</sort>
+    <baseString>６００００</baseString>
+    <target>60000</target>
+  </Table1>
+  <Table1>
+    <sort>2437</sort>
+    <baseString>７００００</baseString>
+    <target>70000</target>
+  </Table1>
+  <Table1>
+    <sort>2438</sort>
+    <baseString>８００００</baseString>
+    <target>80000</target>
+  </Table1>
+  <Table1>
+    <sort>2439</sort>
+    <baseString>９００００</baseString>
+    <target>90000</target>
+  </Table1>
+  <Table1>
+    <sort>2450</sort>
+    <baseString>イゼルローン攻防 前哨戦</baseString>
+    <target>Izeruron battle prelude</target>
+  </Table1>
+  <Table1>
+    <sort>2451</sort>
+    <baseString>イゼルローン帝国</baseString>
+    <target>Izeruron empire</target>
+  </Table1>
+  <Table1>
+    <sort>2452</sort>
+    <baseString>イゼルローン同盟</baseString>
+    <target>Izeruron alliance</target>
+  </Table1>
+  <Table1>
+    <sort>2453</sort>
+    <baseString>ティアマト</baseString>
+    <target>Tiamat</target>
+  </Table1>
+  <Table1>
+    <sort>2454</sort>
+    <baseString>レグニツァ</baseString>
+    <target>Legnica</target>
+  </Table1>
+  <Table1>
+    <sort>2455</sort>
+    <baseString>アスターテ</baseString>
+    <target>Asutate</target>
+  </Table1>
+  <Table1>
+    <sort>2456</sort>
+    <baseString>カストロプ</baseString>
+    <target>Kasutoropu</target>
+  </Table1>
+  <Table1>
+    <sort>2457</sort>
+    <baseString>アムリッツァ前哨戦　前編</baseString>
+    <target>Amurittsua prelude prequel</target>
+  </Table1>
+  <Table1>
+    <sort>2458</sort>
+    <baseString>アムリッツァ前哨戦　後編</baseString>
+    <target>Amurittsua prelude Part</target>
+  </Table1>
+  <Table1>
+    <sort>2459</sort>
+    <baseString>アムリッツァ</baseString>
+    <target>Amurittsua</target>
+  </Table1>
+  <Table1>
+    <sort>2460</sort>
+    <baseString>レンテンベルク</baseString>
+    <target>Rentenberuku</target>
+  </Table1>
+  <Table1>
+    <sort>2461</sort>
+    <baseString>キフォイザー</baseString>
+    <target>Kifoiza</target>
+  </Table1>
+  <Table1>
+    <sort>2462</sort>
+    <baseString>ガイエスブルク</baseString>
+    <target>Gaiesuburuku</target>
+  </Table1>
+  <Table1>
+    <sort>2463</sort>
+    <baseString>ドーリア</baseString>
+    <target>Doria</target>
+  </Table1>
+  <Table1>
+    <sort>2464</sort>
+    <baseString>ハイネセン</baseString>
+    <target>Hainesen</target>
+  </Table1>
+  <Table1>
+    <sort>2465</sort>
+    <baseString>ランテマリオ</baseString>
+    <target>Rantemario</target>
+  </Table1>
+  <Table1>
+    <sort>2466</sort>
+    <baseString>ライガール・トリプラ</baseString>
+    <target>Raigaru - Triplatassi</target>
+  </Table1>
+  <Table1>
+    <sort>2467</sort>
+    <baseString>タッシリ</baseString>
+    <target>River</target>
+  </Table1>
+  <Table1>
+    <sort>2468</sort>
+    <baseString>バーミリオン</baseString>
+    <target>Million</target>
+  </Table1>
+  <Table1>
+    <sort>2470</sort>
+    <baseString>イゼルローン攻防 前哨戦</baseString>
+    <target>Iserloan Battle Outpost Battle</target>
+  </Table1>
+  <Table1>
+    <sort>2471</sort>
+    <baseString>イゼルローン帝国</baseString>
+    <target>Iserloan Empire</target>
+  </Table1>
+  <Table1>
+    <sort>2472</sort>
+    <baseString>イゼルローン同盟</baseString>
+    <target>Iserloan Alliance</target>
+  </Table1>
+  <Table1>
+    <sort>2473</sort>
+    <baseString>ティアマト</baseString>
+    <target>Tiamat</target>
+  </Table1>
+  <Table1>
+    <sort>2474</sort>
+    <baseString>レグニツァ</baseString>
+    <target>Legnica</target>
+  </Table1>
+  <Table1>
+    <sort>2475</sort>
+    <baseString>アスターテ</baseString>
+    <target>Aster</target>
+  </Table1>
+  <Table1>
+    <sort>2476</sort>
+    <baseString>カストロプ</baseString>
+    <target>Tecastrop</target>
+  </Table1>
+  <Table1>
+    <sort>2477</sort>
+    <baseString>アムリッツァ前哨戦　前編</baseString>
+    <target>Amlitza Outpost Part 1</target>
+  </Table1>
+  <Table1>
+    <sort>2478</sort>
+    <baseString>アムリッツァ前哨戦　後編</baseString>
+    <target>Amurittsua prelude Part</target>
+  </Table1>
+  <Table1>
+    <sort>2479</sort>
+    <baseString>アムリッツァ</baseString>
+    <target>Amurittsua</target>
+  </Table1>
+  <Table1>
+    <sort>2480</sort>
+    <baseString>レンテンベルク</baseString>
+    <target>Rentenberuku</target>
+  </Table1>
+  <Table1>
+    <sort>2481</sort>
+    <baseString>キフォイザー</baseString>
+    <target>Kifoiza</target>
+  </Table1>
+  <Table1>
+    <sort>2482</sort>
+    <baseString>ガイエスブルク</baseString>
+    <target>Gaiesuburuku</target>
+  </Table1>
+  <Table1>
+    <sort>2483</sort>
+    <baseString>ドーリア</baseString>
+    <target>Doria</target>
+  </Table1>
+  <Table1>
+    <sort>2484</sort>
+    <baseString>ハイネセン</baseString>
+    <target>Hainesen</target>
+  </Table1>
+  <Table1>
+    <sort>2485</sort>
+    <baseString>ランテマリオ</baseString>
+    <target>Rantemario</target>
+  </Table1>
+  <Table1>
+    <sort>2486</sort>
+    <baseString>ライガール・トリプラ</baseString>
+    <target>Raigaru tripler</target>
+  </Table1>
+  <Table1>
+    <sort>2487</sort>
+    <baseString>タッシリ</baseString>
+    <target>Tassili</target>
+  </Table1>
+  <Table1>
+    <sort>2488</sort>
+    <baseString>バーミリオン</baseString>
+    <target>Vermillion</target>
+  </Table1>
+  <Table1>
+    <sort>2489</sort>
+    <baseString>ヴァンフリート</baseString>
+    <target>Van Fleet</target>
+  </Table1>
+  <Table1>
+    <sort>2490</sort>
+    <baseString>エル・ファシル</baseString>
+    <target>El Facil</target>
+  </Table1>
+  <Table1>
+    <sort>2491</sort>
+    <baseString>ダゴン</baseString>
+    <target>Dagon</target>
+  </Table1>
+  <Table1>
+    <sort>2500</sort>
+    <baseString>陣営を選択してください。</baseString>
+    <target>Please select a camp.</target>
+  </Table1>
+  <Table1>
+    <sort>2501</sort>
+    <baseString>使用する艦隊を設定してください</baseString>
+    <target>Please set the fleet to use</target>
+  </Table1>
+  <Table1>
+    <sort>2502</sort>
+    <baseString>
+
+ラインハルトとなって戦う銀河帝国キャンペーンです。</baseString>
+    <target>. It is a Galactic Empire campaign to fight as Reinhardt.</target>
+  </Table1>
+  <Table1>
+    <sort>2503</sort>
+    <baseString>
+
+ヤンとなって戦う自由惑星同盟キャンペーンです。</baseString>
+    <target>It is a Free Planet Alliance campaign to fight as Yang.</target>
+  </Table1>
+  <Table1>
+    <sort>2504</sort>
+    <baseString>以下の提督がシングルゲームで使用できるようになりました</baseString>
+    <target>The following Admirals can now be used in a single game</target>
+  </Table1>
+  <Table1>
+    <sort>2505</sort>
+    <baseString>提督のレベルが上がりました！</baseString>
+    <target>!</target>
+  </Table1>
+  <Table1>
+    <sort>2506</sort>
+    <baseString>艦隊を編制してください</baseString>
+    <target>Please and organized a fleet</target>
+  </Table1>
+  <Table1>
+    <sort>2507</sort>
+    <baseString>－－－－</baseString>
+    <target>----</target>
+  </Table1>
+  <Table1>
+    <sort>2508</sort>
+    <baseString>ステージを選択してください</baseString>
+    <target>Please select a stage</target>
+  </Table1>
+  <Table1>
+    <sort>2509</sort>
+    <baseString>一同</baseString>
+    <target>Everyone</target>
+  </Table1>
+  <Table1>
+    <sort>2510</sort>
+    <baseString>制限時間</baseString>
+    <target>time limit</target>
+  </Table1>
+  <Table1>
+    <sort>2511</sort>
+    <baseString>艦隊全滅</baseString>
+    <target>fleet annihilated</target>
+  </Table1>
+  <Table1>
+    <sort>2512</sort>
+    <baseString>戦果ポイント</baseString>
+    <target>veterans point</target>
+  </Table1>
+  <Table1>
+    <sort>2513</sort>
+    <baseString>総司令官撃破</baseString>
+    <target>commander-in-chief defeated</target>
+  </Table1>
+  <Table1>
+    <sort>2514</sort>
+    <baseString>全拠点制圧</baseString>
+    <target>all sites overwhelm</target>
+  </Table1>
+  <Table1>
+    <sort>2515</sort>
+    <baseString>対戦人数</baseString>
+    <target>number of players</target>
+  </Table1>
+  <Table1>
+    <sort>2516</sort>
+    <baseString>同一提督登場</baseString>
+    <target>the same admiral appeared</target>
+  </Table1>
+  <Table1>
+    <sort>2517</sort>
+    <baseString>拠点補充</baseString>
+    <target>base replenishment</target>
+  </Table1>
+  <Table1>
+    <sort>2518</sort>
+    <baseString>勝利条件</baseString>
+    <target>victory conditions</target>
+  </Table1>
+  <Table1>
+    <sort>2519</sort>
+    <baseString>参加艦隊数</baseString>
+    <target>participation fleet number</target>
+  </Table1>
+  <Table1>
+    <sort>2520</sort>
+    <baseString>Ｌｖ固定</baseString>
+    <target>Lv fixed</target>
+  </Table1>
+  <Table1>
+    <sort>2530</sort>
+    <baseString>艦隊編制中</baseString>
+    <target>fleet organized in</target>
+  </Table1>
+  <Table1>
+    <sort>2531</sort>
+    <baseString>プライベート予約</baseString>
+    <target>private reservation</target>
+  </Table1>
+  <Table1>
+    <sort>2532</sort>
+    <baseString>ゲーマー プロフィール</baseString>
+    <target>gamer profile</target>
+  </Table1>
+  <Table1>
+    <sort>2533</sort>
+    <baseString>退出させる</baseString>
+    <target>Exit is to</target>
+  </Table1>
+  <Table1>
+    <sort>2534</sort>
+    <baseString>%d勝%d敗</baseString>
+    <target>% d% d wins over</target>
+  </Table1>
+  <Table1>
+    <sort>2600</sort>
+    <baseString>ゲームの基本的な操作を習得できます</baseString>
+    <target>you will learn the basic operation of the game</target>
+  </Table1>
+  <Table1>
+    <sort>2601</sort>
+    <baseString>特技の使い方を習得できます</baseString>
+    <target>you can learn how to use the special ability</target>
+  </Table1>
+  <Table1>
+    <sort>2602</sort>
+    <baseString>陣形の効果とその戦い方を習得できます</baseString>
+    <target>effect and its fight how can you learn of the formation</target>
+  </Table1>
+  <Table1>
+    <sort>3000</sort>
+    <baseString>%s戦隊を発見いたしました</baseString>
+    <target>we found a% s squadron</target>
+  </Table1>
+  <Table1>
+    <sort>3001</sort>
+    <baseString>敵艦隊発見！</baseString>
+    <target>enemy fleet discovery!</target>
+  </Table1>
+  <Table1>
+    <sort>3002</sort>
+    <baseString>%s戦隊を発見！</baseString>
+    <target>Discover %s Sentai!</target>
+  </Table1>
+  <Table1>
+    <sort>3003</sort>
+    <baseString>レーダーに反応あり！敵艦隊です！</baseString>
+    <target>Reaction to radar! The enemy fleet!</target>
+  </Table1>
+  <Table1>
+    <sort>3004</sort>
+    <baseString>敵軍を捕捉！　%s戦隊です！</baseString>
+    <target>Capture the enemy army! %s Sentai!</target>
+  </Table1>
+  <Table1>
+    <sort>3005</sort>
+    <baseString>%s戦隊を発見！</baseString>
+    <target>Discover %s Sentai!</target>
+  </Table1>
+  <Table1>
+    <sort>3006</sort>
+    <baseString>敵艦隊発見！</baseString>
+    <target>Discover the enemy fleet!</target>
+  </Table1>
+  <Table1>
+    <sort>3007</sort>
+    <baseString>レーダーに反応！敵艦隊です！</baseString>
+    <target>React to radar! The enemy fleet!</target>
+  </Table1>
+  <Table1>
+    <sort>3008</sort>
+    <baseString>敵軍を捕捉！　%s戦隊です！</baseString>
+    <target>Capture the enemy army! %s Sentai!</target>
+  </Table1>
+  <Table1>
+    <sort>3009</sort>
+    <baseString>敵軍を捕捉！　%s戦隊です！</baseString>
+    <target>Capture the enemy army! %s Sentai!</target>
+  </Table1>
+  <Table1>
+    <sort>3010</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3011</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3012</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3013</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3014</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3015</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3016</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3017</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3018</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3019</sort>
+    <baseString>%s表面に高エネルギー反応を確認！
+%sきます！！</baseString>
+    <target>Confirm high energy reaction on %s surface! %s will come! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3020</sort>
+    <baseString>%s表面に高エネルギー反応！
+%s注意してください！！</baseString>
+    <target>High energy reaction on %s surface! %s Be careful! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3021</sort>
+    <baseString>%s表面に高エネルギー反応！
+%s注意してください！！</baseString>
+    <target>High energy reaction on %s surface! %s Be careful! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3022</sort>
+    <baseString>%s表面に高エネルギー反応！
+%s注意してください！！</baseString>
+    <target>High energy reaction on %s surface! %s Be careful! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3023</sort>
+    <baseString>%s表面に%s確認！
+発射態勢にあります！！</baseString>
+    <target>Confirm %s on the surface of %s! Ready to fire! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3024</sort>
+    <baseString>%s表面に%s確認！
+発射態勢にあります！！</baseString>
+    <target>Confirm %s on the surface of %s! Ready to fire! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3025</sort>
+    <baseString>%s表面に高エネルギー反応です！
+%s注意してください！！</baseString>
+    <target>High energy reaction on %s surface! %s Be careful! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3026</sort>
+    <baseString>%s表面に高エネルギー反応です！
+%s注意してください！！</baseString>
+    <target>High energy reaction on %s surface! %s Be careful! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3027</sort>
+    <baseString>%s表面に%s確認！
+発射態勢にあります！！</baseString>
+    <target>Confirm %s on the surface of %s! Ready to fire! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3028</sort>
+    <baseString>%s表面に%s確認！
+発射態勢にあります！！</baseString>
+    <target>Confirm %s on the surface of %s! Ready to fire! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3029</sort>
+    <baseString>%s表面に%s確認！
+発射態勢にあります！！</baseString>
+    <target>Confirm %s on the surface of %s! Ready to fire! !!</target>
+  </Table1>
+  <Table1>
+    <sort>3030</sort>
+    <baseString>%s艦隊任務完了いたしました。
+ご命令を…</baseString>
+    <target>%s fleet mission completed. Your order... The</target>
+  </Table1>
+  <Table1>
+    <sort>3031</sort>
+    <baseString>%s艦隊任務完了いたしました。
+ご命令を…</baseString>
+    <target>%s fleet mission has been completed. Your order... The</target>
+  </Table1>
+  <Table1>
+    <sort>3032</sort>
+    <baseString>%s艦隊任務完了いたしました。
+ご命令を…</baseString>
+    <target>%s fleet mission has been completed. Your order... The</target>
+  </Table1>
+  <Table1>
+    <sort>3033</sort>
+    <baseString>%s艦隊任務完了いたしました。
+ご命令を…</baseString>
+    <target>%s fleet mission has been completed. Your order... The</target>
+  </Table1>
+  <Table1>
+    <sort>3034</sort>
+    <baseString>%s艦隊任務完了いたしました。
+ご命令を…</baseString>
+    <target>%s fleet mission has been completed. Your order... The</target>
+  </Table1>
+  <Table1>
+    <sort>3035</sort>
+    <baseString>%s艦隊任務完了です！</baseString>
+    <target>%s fleet mission is complete!</target>
+  </Table1>
+  <Table1>
+    <sort>3036</sort>
+    <baseString>%s艦隊任務完了です！</baseString>
+    <target>%s fleet mission completed!</target>
+  </Table1>
+  <Table1>
+    <sort>3037</sort>
+    <baseString>%s艦隊任務完了です！</baseString>
+    <target>%s fleet mission completed!</target>
+  </Table1>
+  <Table1>
+    <sort>3038</sort>
+    <baseString>%s艦隊任務完了！</baseString>
+    <target>%s fleet mission completed!</target>
+  </Table1>
+  <Table1>
+    <sort>3039</sort>
+    <baseString>%s艦隊任務完了！</baseString>
+    <target>%s fleet mission completed!</target>
+  </Table1>
+  <Table1>
+    <sort>3040</sort>
+    <baseString>%s戦隊が危険です！救援を！</baseString>
+    <target>%s squadron is dangerous! Relief!</target>
+  </Table1>
+  <Table1>
+    <sort>3041</sort>
+    <baseString>%s戦隊が危険です！救援を！</baseString>
+    <target>%s squadron is dangerous! Relief!</target>
+  </Table1>
+  <Table1>
+    <sort>3042</sort>
+    <baseString>%s戦隊が救援を求めています！</baseString>
+    <target>%s squadron wants help!</target>
+  </Table1>
+  <Table1>
+    <sort>3043</sort>
+    <baseString>%s戦隊が救援を求めています！</baseString>
+    <target>%s squadron wants help!</target>
+  </Table1>
+  <Table1>
+    <sort>3044</sort>
+    <baseString>%s戦隊が救援を求めています！</baseString>
+    <target>%s squadron wants help!</target>
+  </Table1>
+  <Table1>
+    <sort>3045</sort>
+    <baseString>%s戦隊が危険です！救援を！</baseString>
+    <target>%s squadron is dangerous! Relief!</target>
+  </Table1>
+  <Table1>
+    <sort>3046</sort>
+    <baseString>%s戦隊が危険です！救援を！</baseString>
+    <target>%s squadron is dangerous! Relief!</target>
+  </Table1>
+  <Table1>
+    <sort>3047</sort>
+    <baseString>%s戦隊が危険です！救援を！</baseString>
+    <target>%s squadron is dangerous! Relief!</target>
+  </Table1>
+  <Table1>
+    <sort>3048</sort>
+    <baseString>%s戦隊が救援を求めています！</baseString>
+    <target>%s squadron wants help!</target>
+  </Table1>
+  <Table1>
+    <sort>3049</sort>
+    <baseString>%s戦隊が救援を求めています！</baseString>
+    <target>%s squadron wants help!</target>
+  </Table1>
+  <Table1>
+    <sort>3050</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>Battle is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3051</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>combat is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3052</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>combat is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3053</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>it is advantageously progress to combat our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3054</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>battle in our fleet we are advantageously progress</target>
+  </Table1>
+  <Table1>
+    <sort>3055</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>battle is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3056</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>combat is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3057</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>combat is not advantageous to proceed to our fleet</target>
+  </Table1>
+  <Table1>
+    <sort>3058</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>combat is Shingo I am advancing in favor of my fleet I am advancing in favor of my fleet in</target>
+  </Table1>
+  <Table1>
+    <sort>3059</sort>
+    <baseString>戦闘は吾が艦隊に有利にすすんでいます</baseString>
+    <target>battle The</target>
+  </Table1>
+  <Table1>
+    <sort>3060</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>fleet is dangerous as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3061</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3062</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3063</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3064</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3065</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3066</sort>
+    <baseString>このままでは艦隊が危険です！</baseString>
+    <target>The fleet is dangerous if left as it is!</target>
+  </Table1>
+  <Table1>
+    <sort>3067</sort>
+    <baseString>損害拡大！　このままでは危険です！</baseString>
+    <target>Damage expansion! This is dangerous!</target>
+  </Table1>
+  <Table1>
+    <sort>3068</sort>
+    <baseString>損害拡大！　このままでは危険です！</baseString>
+    <target>Damage expansion! This is dangerous!</target>
+  </Table1>
+  <Table1>
+    <sort>3069</sort>
+    <baseString>損害拡大！　このままでは危険です！</baseString>
+    <target>Damage expansion! This is dangerous!</target>
+  </Table1>
+  <Table1>
+    <sort>3070</sort>
+    <baseString>敵軍の攻撃を受けています
+ご命令を！</baseString>
+    <target>You are under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3071</sort>
+    <baseString>敵軍の攻撃を受けています
+ご命令を！</baseString>
+    <target>You are under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>37644</sort>
+    <baseString>G軍の攻撃を受けています
+ご命令を！</baseString>
+    <target>You are under attack by the G army, please order!</target>
+  </Table1>
+  <Table1>
+    <sort>3073</sort>
+    <baseString>敵軍の攻撃を受けています
+ご命令を！</baseString>
+    <target>You are under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3074</sort>
+    <baseString>敵軍の攻撃を受けています
+ご命令を！</baseString>
+    <target>You are under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3075</sort>
+    <baseString>敵軍の攻撃を受けています！</baseString>
+    <target>Under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3076</sort>
+    <baseString>敵軍の攻撃を受けています！</baseString>
+    <target>Under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3077</sort>
+    <baseString>敵軍の攻撃を受けています！</baseString>
+    <target>Under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3078</sort>
+    <baseString>敵軍の攻撃を受けています！</baseString>
+    <target>Under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3079</sort>
+    <baseString>敵軍の攻撃を受けています！</baseString>
+    <target>Under attack by the enemy army!</target>
+  </Table1>
+  <Table1>
+    <sort>3080</sort>
+    <baseString>ミサイル群確認！　直撃来ます！</baseString>
+    <target>Missile group confirmation! I will hit you directly!</target>
+  </Table1>
+  <Table1>
+    <sort>3081</sort>
+    <baseString>ミサイル群確認！　直撃来ます！</baseString>
+    <target>Missile group confirmation! I will hit you directly!</target>
+  </Table1>
+  <Table1>
+    <sort>3082</sort>
+    <baseString>高エネルギー反応接近！ミサイル攻撃です！</baseString>
+    <target>High energy reaction approach! It's a missile attack!</target>
+  </Table1>
+  <Table1>
+    <sort>3083</sort>
+    <baseString>高エネルギー反応接近！ミサイル攻撃です！</baseString>
+    <target>High energy reaction approach! It's a missile attack!</target>
+  </Table1>
+  <Table1>
+    <sort>3084</sort>
+    <baseString>%s戦隊からミサイル攻撃を受けています！</baseString>
+    <target>Missile attack from %s squadron!</target>
+  </Table1>
+  <Table1>
+    <sort>3085</sort>
+    <baseString>高エネルギー反応接近！ミサイル攻撃です！</baseString>
+    <target>High energy reaction approach! It's a missile attack!</target>
+  </Table1>
+  <Table1>
+    <sort>3086</sort>
+    <baseString>高エネルギー反応接近！ミサイル攻撃です！</baseString>
+    <target>High energy reaction approach! It's a missile attack!</target>
+  </Table1>
+  <Table1>
+    <sort>3087</sort>
+    <baseString>%s戦隊からミサイル攻撃を受けています！</baseString>
+    <target>Missile attack from %s squadron!</target>
+  </Table1>
+  <Table1>
+    <sort>3088</sort>
+    <baseString>%s戦隊からミサイル攻撃を受けています！</baseString>
+    <target>Missile attack from %s squadron!</target>
+  </Table1>
+  <Table1>
+    <sort>3089</sort>
+    <baseString>%s戦隊からミサイル攻撃を受けています！</baseString>
+    <target>Missile attack from %s squadron!</target>
+  </Table1>
+  <Table1>
+    <sort>3500</sort>
+    <baseString>戦闘開始</baseString>
+    <target>Start of battle</target>
+  </Table1>
+  <Table1>
+    <sort>3501</sort>
+    <baseString>%sが%sを発見</baseString>
+    <target>%s finds</target>
+  </Table1>
+  <Table1>
+    <sort>3502</sort>
+    <baseString>%sが%sと戦闘開始</baseString>
+    <target>%s Start of battle with</target>
+  </Table1>
+  <Table1>
+    <sort>3503</sort>
+    <baseString>%sを撃破</baseString>
+    <target>%s %s Destroys</target>
+  </Table1>
+  <Table1>
+    <sort>3504</sort>
+    <baseString>%sが撃破される</baseString>
+    <target>%s %s is destroyed %s</target>
+  </Table1>
+  <Table1>
+    <sort>3505</sort>
+    <baseString>%sが%sを攻撃開始</baseString>
+    <target>starts attacking</target>
+  </Table1>
+  <Table1>
+    <sort>3506</sort>
+    <baseString>%sが%sを占領開始</baseString>
+    <target>%s %s starts capturing</target>
+  </Table1>
+  <Table1>
+    <sort>3507</sort>
+    <baseString>%sが%sを無力化</baseString>
+    <target>%s %s helps %s of</target>
+  </Table1>
+  <Table1>
+    <sort>3508</sort>
+    <baseString>%sが%sを占領</baseString>
+    <target>% s is% s occupation</target>
+  </Table1>
+  <Table1>
+    <sort>3509</sort>
+    <baseString>%sにより%sが占領される</baseString>
+    <target>% s by% s is occupied is</target>
+  </Table1>
+  <Table1>
+    <sort>3510</sort>
+    <baseString>%s軍、%s</baseString>
+    <target>% s Army,% s</target>
+  </Table1>
+  <Table1>
+    <sort>3900</sort>
+    <baseString>ホストとの接続が切れました。</baseString>
+    <target>connection to the host has expired.</target>
+  </Table1>
+  <Table1>
+    <sort>3901</sort>
+    <baseString>が切断しました。</baseString>
+    <target>Has disconnected.</target>
+  </Table1>
+  <Table1>
+    <sort>3902</sort>
+    <baseString>からの応答がありません。暫くお待ちください。</baseString>
+    <target>There is no response from. Please wait for a while.</target>
+  </Table1>
+  <Table1>
+    <sort>3903</sort>
+    <baseString>通信処理でエラーが発生しました。</baseString>
+    <target>An error occurred during communication processing.</target>
+  </Table1>
+  <Table1>
+    <sort>3904</sort>
+    <baseString>通信処理でエラーが発生しました。(%d) 
+タイトルメニューに戻ります。</baseString>
+    <target>An error occurred during communication processing. (%d) Return to the title menu.</target>
+  </Table1>
+  <Table1>
+    <sort>3905</sort>
+    <baseString>通信処理でエラーが発生しました。(%d) 
+オンラインメニューに戻ります。</baseString>
+    <target>An error occurred during communication processing. (%d) Return to the online menu.</target>
+  </Table1>
+  <Table1>
+    <sort>3906</sort>
+    <baseString>ゲームを終了します。</baseString>
+    <target>The game ends.</target>
+  </Table1>
+  <Table1>
+    <sort>3907</sort>
+    <baseString>LIVE との接続が切れました。</baseString>
+    <target>Lost connection to LIVE.</target>
+  </Table1>
+  <Table1>
+    <sort>3908</sort>
+    <baseString>ネットワークが切断しました。</baseString>
+    <target>The network has been disconnected.</target>
+  </Table1>
+  <Table1>
+    <sort>3909</sort>
+    <baseString>LIVE との接続が切れました。
+タイトルメニューに戻ります。</baseString>
+    <target>Lost connection to LIVE. Returns to the title menu.</target>
+  </Table1>
+  <Table1>
+    <sort>3910</sort>
+    <baseString>オンライン対戦メニューに戻ります。</baseString>
+    <target>Return to the online match menu.</target>
+  </Table1>
+  <Table1>
+    <sort>3911</sort>
+    <baseString>招待を受けました。
+すぐに招待されたバトルに参加しますか？</baseString>
+    <target>I received an invitation. Do you want to join the invited battle right away?</target>
+  </Table1>
+  <Table1>
+    <sort>3912</sort>
+    <baseString>LIVE との接続が切れました。
+オンラインメニューに戻ります。</baseString>
+    <target>Lost connection to LIVE. Returns to the online menu.</target>
+  </Table1>
+  <Table1>
+    <sort>3913</sort>
+    <baseString>「進行中のゲームに参加します」が選択されました。
+すぐに進行中のバトルに参加しますか？</baseString>
+    <target>"Join a game in progress" has been selected. Would you like to join an ongoing battle soon?</target>
+  </Table1>
+  <Table1>
+    <sort>3914</sort>
+    <baseString>切断したプレイヤーの艦隊はCOM操作に替わります。</baseString>
+    <target>The disconnected player's fleet will be replaced by COM operations.</target>
+  </Table1>
+  <Table1>
+    <sort>4010</sort>
+    <baseString>バトルルームの作成に失敗しました。(%d:%08x)</baseString>
+    <target>Failed to create the battle room. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4011</sort>
+    <baseString>バトルルーム作成処理がタイムアウトしました。(%d:%08x)</baseString>
+    <target>Battle room creation processing has timed out. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4012</sort>
+    <baseString>バトルルームの作成に失敗しました。
+マルチプレイヤー権限がありません。(%d:%08x)</baseString>
+    <target>Failed to create the battle room. You do not have multiplayer privileges. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4020</sort>
+    <baseString>接続に失敗しました。(%d)</baseString>
+    <target>Connection failed. (%d) The</target>
+  </Table1>
+  <Table1>
+    <sort>4021</sort>
+    <baseString>選択されたバトルルームは
+定員オーバーになりました。(%d)</baseString>
+    <target>selected battle room is over capacity. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4023</sort>
+    <baseString>ホストがいません。(%d)</baseString>
+    <target>There is no host. (%d) The</target>
+  </Table1>
+  <Table1>
+    <sort>4024</sort>
+    <baseString>IPアドレスが解決できません。(%d)</baseString>
+    <target>IP address cannot be resolved. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4025</sort>
+    <baseString>セッション参加処理がタイムアウトしました。(%d)</baseString>
+    <target>Session participation processing has timed out. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4026</sort>
+    <baseString>通信エラーです。(%d)</baseString>
+    <target>Communication error. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4027</sort>
+    <baseString>バトルへの参加に失敗しました。(%d)</baseString>
+    <target>Failed to participate in the battle. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4028</sort>
+    <baseString>バトルへの参加に失敗しました。</baseString>
+    <target>Failed to participate in the battle.</target>
+  </Table1>
+  <Table1>
+    <sort>4030</sort>
+    <baseString>バトルルームの検索中にエラーが発生しました。(%d:%08x)</baseString>
+    <target>An error occurred while searching the battle room. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4031</sort>
+    <baseString>バトルルーム検索処理がタイムアウトしました。(%d:%08x)</baseString>
+    <target>The battle room search process has timed out. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4032</sort>
+    <baseString>バトルルームの検索に失敗しました。
+マルチプレイヤー権限がありません。(%d:%08x)</baseString>
+    <target>Failed to search the battle room. You do not have multiplayer privileges. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4040</sort>
+    <baseString>LIVEへの登録に失敗しました。</baseString>
+    <target>Registration to LIVE failed.</target>
+  </Table1>
+  <Table1>
+    <sort>4050</sort>
+    <baseString>他の参加者がいません。(%d:%08x)</baseString>
+    <target>There are no other participants. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4051</sort>
+    <baseString>バトルの開始に失敗しました。(%d:%08x)</baseString>
+    <target>Failed to start the battle. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4052</sort>
+    <baseString>バトルの開始に失敗しました。(%d:%08x)</baseString>
+    <target>Failed to start the battle. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4053</sort>
+    <baseString>バトル開始処理がタイムアウトしました。(%d:%08x)</baseString>
+    <target>Battle start processing has timed out. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4054</sort>
+    <baseString>バトルを開始できません。
+準備が完了していないプレイヤーがいます。</baseString>
+    <target>Battle cannot start. Some players are not ready.</target>
+  </Table1>
+  <Table1>
+    <sort>4060</sort>
+    <baseString>ホストが退出しました。前の画面に戻ります。</baseString>
+    <target>The host has left. Returns to the previous screen.</target>
+  </Table1>
+  <Table1>
+    <sort>4061</sort>
+    <baseString>プライベートスロット数の変更に失敗しました。</baseString>
+    <target>Failed to change the number of private slots.</target>
+  </Table1>
+  <Table1>
+    <sort>4062</sort>
+    <baseString>同一の提督が重複して使用されています。</baseString>
+    <target>The same admiral is used more than once.</target>
+  </Table1>
+  <Table1>
+    <sort>4063</sort>
+    <baseString>参加プレイヤーが減りました。</baseString>
+    <target>The number of participating players has decreased.</target>
+  </Table1>
+  <Table1>
+    <sort>4064</sort>
+    <baseString>バトル開始処理の間に、
+準備中になったプレイヤーがいます。</baseString>
+    <target>During the battle start process, some players are preparing.</target>
+  </Table1>
+  <Table1>
+    <sort>4065</sort>
+    <baseString>バトル開始中...</baseString>
+    <target>The battle is starting...</target>
+  </Table1>
+  <Table1>
+    <sort>4066</sort>
+    <baseString>提督が重複しているため、準備完了にできません。</baseString>
+    <target>I cannot complete the preparation because there are duplicate Admirals.</target>
+  </Table1>
+  <Table1>
+    <sort>4067</sort>
+    <baseString>ホストが切断しました。前の画面に戻ります。</baseString>
+    <target>The host has disconnected. Returns to the previous screen.</target>
+  </Table1>
+  <Table1>
+    <sort>4070</sort>
+    <baseString>クイックマッチに失敗しました。</baseString>
+    <target>Quick match failed.</target>
+  </Table1>
+  <Table1>
+    <sort>4071</sort>
+    <baseString>クイックマッチに失敗しました。
+バトルルームが検索できません。(%d:%08x)</baseString>
+    <target>Quick match failed. The battle room cannot be searched. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4072</sort>
+    <baseString>クイックマッチに失敗しました。内部エラーです。(%d:%08x)</baseString>
+    <target>Quick match failed. Internal error. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4073</sort>
+    <baseString>クイックマッチに失敗しました。
+参加可能なバトルルームがありません。(%d:%08x)</baseString>
+    <target>Quick match failed. There are no battle rooms available for participation. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4074</sort>
+    <baseString>クイックマッチに失敗しました。
+マルチプレイヤー権限がありません。
+(%d:%08x)</baseString>
+    <target>Quick match failed. You do not have multiplayer privileges. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4080</sort>
+    <baseString>セッションの終了に失敗しました。(%d:%08x)</baseString>
+    <target>Failed to end the session. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4081</sort>
+    <baseString>セッションの終了に失敗しました。(%d:%08x)</baseString>
+    <target>Failed to end the session. (%d:%08x)</target>
+  </Table1>
+  <Table1>
+    <sort>4082</sort>
+    <baseString>セッション終了処理がタイムアウトしました。(%d:%08x)</baseString>
+    <target>Session termination processing has timed out. (%d:%08x) Obtaining</target>
+  </Table1>
+  <Table1>
+    <sort>4090</sort>
+    <baseString>ランキングを取得中...</baseString>
+    <target>ranking...</target>
+  </Table1>
+  <Table1>
+    <sort>4091</sort>
+    <baseString>ランキングの取得に失敗しました。(%d)</baseString>
+    <target>Failed to obtain ranking. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4092</sort>
+    <baseString>ランキングの取得に失敗しました。(%d)</baseString>
+    <target>Failed to get the ranking. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4093</sort>
+    <baseString>ランキングの取得処理がタイムアウトしました。(%d)</baseString>
+    <target>Ranking acquisition processing has timed out. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4094</sort>
+    <baseString>ランキングの取得に失敗しました。サインインしてください。(%d)</baseString>
+    <target>Failed to get the ranking. Please sign in. (%d)</target>
+  </Table1>
+  <Table1>
+    <sort>4095</sort>
+    <baseString>ランキングの取得に失敗しました。</baseString>
+    <target>Failed to get the ranking.</target>
+  </Table1>
+  <Table1>
+    <sort>5000</sort>
+    <baseString>サインイン</baseString>
+    <target>Sign</target>
+  </Table1>
+  <Table1>
+    <sort>5001</sort>
+    <baseString>サインアウト</baseString>
+    <target>sign out</target>
+  </Table1>
+  <Table1>
+    <sort>5002</sort>
+    <baseString>ゲームを続ける</baseString>
+    <target>games continue to</target>
+  </Table1>
+  <Table1>
+    <sort>5003</sort>
+    <baseString>ゲームを終了</baseString>
+    <target>finish the game</target>
+  </Table1>
+  <Table1>
+    <sort>5004</sort>
+    <baseString>サインイン</baseString>
+    <target>sign-in</target>
+  </Table1>
+  <Table1>
+    <sort>5005</sort>
+    <baseString>銀河英雄伝説のゲームを進めるにはサインインする必要があります。</baseString>
+    <target>to proceed with the Legend of the Galactic Heroes game will need to sign in.</target>
+  </Table1>
+  <Table1>
+    <sort>5006</sort>
+    <baseString>実績</baseString>
+    <target>Achievements With the</target>
+  </Table1>
+  <Table1>
+    <sort>5007</sort>
+    <baseString>現在のアカウントではゲームを進めても実績は解除されません。</baseString>
+    <target>current account, achievements will not be canceled even if the game is advanced.</target>
+  </Table1>
+  <Table1>
+    <sort>5008</sort>
+    <baseString>サインイン</baseString>
+    <target>The sign-in</target>
+  </Table1>
+  <Table1>
+    <sort>5009</sort>
+    <baseString>アカウントが切り替わりました。このアカウントでゲームを進める為にタイトルメニューに戻ります。</baseString>
+    <target>account has been switched. Return to the title menu to proceed with the game with this account.</target>
+  </Table1>
+  <Table1>
+    <sort>5010</sort>
+    <baseString>はい</baseString>
+    <target>Yes</target>
+  </Table1>
+  <Table1>
+    <sort>5011</sort>
+    <baseString>いいえ</baseString>
+    <target>No</target>
+  </Table1>
+  <Table1>
+    <sort>6000</sort>
+    <baseString>ショートカットまたはゲームエクスプローラーから起動してください。</baseString>
+    <target>Please launch from the shortcut or Game Explorer.</target>
+  </Table1>
+  <Table1>
+    <sort>6001</sort>
+    <baseString>メモリの空き容量が足りません。</baseString>
+    <target>There is not enough free memory.</target>
+  </Table1>
+  <Table1>
+    <sort>6002</sort>
+    <baseString>セキュリティプロセスと通信できないため終了します。</baseString>
+    <target>The security process cannot be contacted and will end.</target>
+  </Table1>
+</NewDataSet>

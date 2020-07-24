@@ -1,0 +1,635 @@
+
+Photon Gun
+Photon Pulse Gun
+Neutron Beam Gun
+Neutron Pulse Gun
+Rail Gun
+Rail Cannon
+Laser Hydro Explosive Missile
+Neutron Missile
+Anti-Aircraft
+Combat Satellite
+Thor Hammer
+Gayeshaken
+Fortress Gun
+Combat Boat Laser Cannon
+Choose a target.
+Please select the target squadron.
+Please select a target point.
+Please select the target direction.
+Select the squadron to be dispatched.
+Select the squadron that you want to leave the occupation battle.
+We have confirmed the invasion of new enemy squadrons!
+%s has arrived!
+We have confirmed the departure of the enemy squadron!
+%s has left!
+You have won the battle over %s!
+You have lost the battle above %s!
+A new enemy squadron has been confirmed invading %s. Immediately enter the interception battle!
+%s
+Time limit is %s minutes remaining.
+%s squadron destroyed
+%s squadron destroyed
+%s occupied
+%s occupied %s
+victory victory points earned
+Enemy has won victory battle points
+Game time is over Fight points earned
+%s points until victory
+Total %s %s has become
+Commander Commander %s Squadron has been destroyed
+Commander the public sector% s squadron was defeated
+was occupied all of the base
+all the bases have been occupied
+　　
+Warrant officer
+Second Lieutenant
+Lieutenant
+Captain
+Major
+Lieutenant Colonel
+Colonel
+Brigadier General
+Major General
+Lieutenant General
+General
+Colonel General
+Field Marshal
+Please choose the force to sortie.
+Choose the units that you want to leave the occupation battle.
+Select a
+feat Do you use feats?
+Would you like to launch a missile?
+Galactic Empire
+Free Planet Alliance
+Aristocratic Union
+Salvation Military Conference
+Castrop
+Neutral
+Pirate
+Communications Battle Empire 0
+Communications Battle Empire 1
+Communications Battle Empire 2
+Communications Battle Empire 3
+Communications Battle Alliance 0
+Communications Battle Alliance 1
+Communication fighting alliance 2
+alliance for communication competition 3
+horizontal team
+Jujin
+spindle team
+square
+TsuruTsubasajin
+circle
+spread out
+next to formation
+vertical formation
+a spindle formation
+square-shaped
+TsuruTsubasa formation
+circle-shaped
+formation without the
+missile
+move / attack
+disguised
+air combat
+siege
+assault
+defense
+formation change
+stop
+withdrawal
+feats
+division
+joined
+the right-wing
+left-wing
+Back
+fleet sortie
+coastal artillery fire
+reconnaissance
+attack
+air defense
+detachment
+stage information
+grid
+block
+icon
+marker
+feat gauge
+do you start over from the beginning of the current game?
+Would you like to cancel the current battle and return to the title menu?
+Are you sure you want to end the current match?
+Host player can't
+interrupt the battle General Commander can't interrupt the
+battle The current battle data is not saved.
+Standard type battleship
+high-speed battleship
+cruiser
+destroyer
+aircraft carrier
+missile
+equipped missile with the highest defense and high shooting combat ability ○ equipped with a combat boat ○ equipped with a missile that possesses
+battleship-like combat power and high mobility ○ equipped with a combat boat ○
+shooting battle Demonstrate the power. Missile also high-power missile ○ combat boat equipped -
+equipped with a large number of missiles in place of the long-range artillery missile ◎ combat boat equipped -
+does not have the long-range gun but exert missile equipped with a power in close combat - combat boat equipped -
+a large number of Equipped with a combat boat. Radar range is also wide missile - combat boat equipped ◎
+Galactic Empire
+free planet alliance
+fleet
+center squadron
+right-wing squadron
+left wing squadron
+squadron
+troops
+ship
+battle boat
+fortress
+planet
+commander
+General Staff
+center
+wing
+right wing
+left wing
+cancellation
+system
+The remaining time
+victory conditions
+veterans point
+space
+F Chu Back to the space
+command
+morale
+repair
+sky against
+occupation in
+the sky during the war
+underway
+in retreat
+during stationed
+in the confluence
+during the battle
+powerless
+close combat
+morale decrease
+attack
+defense
+maneuver
+reef zone
+anti-aircraft
++
+-
+(
+)
+:
+formation
+shape
+change
+collapse
+victory
+defeat
+without
+leadership
+shelling
+air combat
+deeds of arms
+feat
+Admiral
+name
+name
+level
+Lv.
+won
+veterans
+damage
+conquered
+annihilate
+battle
+Result
+difficulty
+"
+"
+?
+Minute
+stage
+there is
+no
+game
+time
+○
+veterans point% s acquisition
+enemy fleet of the defeated
+commander-in-chief defeated
+all sites Suppression
+Enable
+Disable
+all
+gamer tag
+Legend of the Galactic Heroes
+,
+PAUSE
+load is complete.
+No user data exists for the current account. Create a new one.
+Failed to load the campaign clear data. There is no data file.
+Delete the campaign clear data. Is it OK?
+It has been deleted.
+Failed to delete the data. Please sign in.
+Failed to delete the data. Not enough disk space.
+Failed to delete the data. You do not have write permission.
+Failed to delete the data. Unexpected error.
+Failed to delete the data. You were signed out during the deletion process.
+Failed to delete the data. There is no data file.
+Select the data to load.
+Select the data to save.
+STAGE%02d %s
+cleared Clear
+Legend of the Galactic Heroes Save Data Saving
+Option Settings... Saving
+Campaign Clearing Information...
+Failed to save option settings. Please sign in.
+Failed to save option settings. Not enough disk space.
+Failed to save option settings. You do not have write permission.
+Failed to save option settings. Unexpected error.
+Failed to save option settings. You were signed out during the save process.
+Load Is it OK?
+BackSpace
+Tab
+Enter
+Esc
+Space
+PageUp
+PageDown
+End
+Insert
+Delete
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Keypad 0
+Keypad 1
+Keypad 2
+Keypad 3
+Keypad 4
+Keypad 5
+Keypad 6
+Keypad 7
+Keypad 8
+Keypad 9
+Keypad *
+Keypad +
+Keypad-
+Keypad .
+numeric keypad /
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+:
+;
+-
+
+.
+/
+Atto
+[
+\
+]
+^
+BackSlash
+left Ctrl
+right Ctrl
+Ctrl
+￩
+￪
+￫
+￬
+option
+graphic
+audio
+keyboard
+Q over-time
+pad
+in changing the resolution ...
+low-quality
+in image quality
+high-quality
+highest quality
+Do you want to this screen mode? It will revert in %d seconds.
+(New)
+Return to the title menu. Is it OK?
+Easy
+Normal
+Hard
+Very Hard
+1 vs 1
+2 vs 2
+3 vs 3
+4 vs 4
+1vs1
+2vs2
+3vs3
+4vs4
+10 minutes
+15 minutes
+20 minutes
+30 minutes
+45 minutes
+60 minutes
+90 minutes
+120 minutes
+5000
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+Izeruron battle prelude
+Izeruron empire
+Izeruron alliance
+Tiamat
+Legnica
+Asutate
+Kasutoropu
+Amurittsua prelude prequel
+Amurittsua prelude Part
+Amurittsua
+Rentenberuku
+Kifoiza
+Gaiesuburuku
+Doria
+Hainesen
+Rantemario
+Raigaru - Triplatassi
+River
+Million
+Iserloan Battle Outpost Battle
+Iserloan Empire
+Iserloan Alliance
+Tiamat
+Legnica
+Aster
+Tecastrop
+Amlitza Outpost Part 1
+Amurittsua prelude Part
+Amurittsua
+Rentenberuku
+Kifoiza
+Gaiesuburuku
+Doria
+Hainesen
+Rantemario
+Raigaru tripler
+Tassili
+Vermillion
+Van Fleet
+El Facil
+Dagon
+Please select a camp.
+Please set the fleet to use
+. It is a Galactic Empire campaign to fight as Reinhardt.
+It is a Free Planet Alliance campaign to fight as Yang.
+The following Admirals can now be used in a single game
+!
+Please and organized a fleet
+----
+Please select a stage
+Everyone
+time limit
+fleet annihilated
+veterans point
+commander-in-chief defeated
+all sites overwhelm
+number of players
+the same admiral appeared
+base replenishment
+victory conditions
+participation fleet number
+Lv fixed
+fleet organized in
+private reservation
+gamer profile
+Exit is to
+% d% d wins over
+you will learn the basic operation of the game
+you can learn how to use the special ability
+effect and its fight how can you learn of the formation
+we found a% s squadron
+enemy fleet discovery!
+Discover %s Sentai!
+Reaction to radar! The enemy fleet!
+Capture the enemy army! %s Sentai!
+Discover %s Sentai!
+Discover the enemy fleet!
+React to radar! The enemy fleet!
+Capture the enemy army! %s Sentai!
+Capture the enemy army! %s Sentai!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+Confirm high energy reaction on %s surface! %s will come! !!
+High energy reaction on %s surface! %s Be careful! !!
+High energy reaction on %s surface! %s Be careful! !!
+High energy reaction on %s surface! %s Be careful! !!
+Confirm %s on the surface of %s! Ready to fire! !!
+Confirm %s on the surface of %s! Ready to fire! !!
+High energy reaction on %s surface! %s Be careful! !!
+High energy reaction on %s surface! %s Be careful! !!
+Confirm %s on the surface of %s! Ready to fire! !!
+Confirm %s on the surface of %s! Ready to fire! !!
+Confirm %s on the surface of %s! Ready to fire! !!
+%s fleet mission completed. Your order... The
+%s fleet mission has been completed. Your order... The
+%s fleet mission has been completed. Your order... The
+%s fleet mission has been completed. Your order... The
+%s fleet mission has been completed. Your order... The
+%s fleet mission is complete!
+%s fleet mission completed!
+%s fleet mission completed!
+%s fleet mission completed!
+%s fleet mission completed!
+%s squadron is dangerous! Relief!
+%s squadron is dangerous! Relief!
+%s squadron wants help!
+%s squadron wants help!
+%s squadron wants help!
+%s squadron is dangerous! Relief!
+%s squadron is dangerous! Relief!
+%s squadron is dangerous! Relief!
+%s squadron wants help!
+%s squadron wants help!
+Battle is not advantageous to proceed to our fleet
+combat is not advantageous to proceed to our fleet
+combat is not advantageous to proceed to our fleet
+it is advantageously progress to combat our fleet
+battle in our fleet we are advantageously progress
+battle is not advantageous to proceed to our fleet
+combat is not advantageous to proceed to our fleet
+combat is not advantageous to proceed to our fleet
+combat is Shingo I am advancing in favor of my fleet I am advancing in favor of my fleet in
+battle The
+fleet is dangerous as it is!
+The fleet is dangerous if left as it is!
+The fleet is dangerous if left as it is!
+The fleet is dangerous if left as it is!
+The fleet is dangerous if left as it is!
+The fleet is dangerous if left as it is!
+The fleet is dangerous if left as it is!
+Damage expansion! This is dangerous!
+Damage expansion! This is dangerous!
+Damage expansion! This is dangerous!
+You are under attack by the enemy army!
+You are under attack by the enemy army!
+You are under attack by the G army, please order!
+You are under attack by the enemy army!
+You are under attack by the enemy army!
+Under attack by the enemy army!
+Under attack by the enemy army!
+Under attack by the enemy army!
+Under attack by the enemy army!
+Under attack by the enemy army!
+Missile group confirmation! I will hit you directly!
+Missile group confirmation! I will hit you directly!
+High energy reaction approach! It's a missile attack!
+High energy reaction approach! It's a missile attack!
+Missile attack from %s squadron!
+High energy reaction approach! It's a missile attack!
+High energy reaction approach! It's a missile attack!
+Missile attack from %s squadron!
+Missile attack from %s squadron!
+Missile attack from %s squadron!
+Start of battle
+%s finds
+%s Start of battle with
+%s %s Destroys
+%s %s is destroyed %s
+starts attacking
+%s %s starts capturing
+%s %s helps %s of
+% s is% s occupation
+% s by% s is occupied is
+% s Army,% s
+connection to the host has expired.
+Has disconnected.
+There is no response from. Please wait for a while.
+An error occurred during communication processing.
+An error occurred during communication processing. (%d) Return to the title menu.
+An error occurred during communication processing. (%d) Return to the online menu.
+The game ends.
+Lost connection to LIVE.
+The network has been disconnected.
+Lost connection to LIVE. Returns to the title menu.
+Return to the online match menu.
+I received an invitation. Do you want to join the invited battle right away?
+Lost connection to LIVE. Returns to the online menu.
+"Join a game in progress" has been selected. Would you like to join an ongoing battle soon?
+The disconnected player's fleet will be replaced by COM operations.
+Failed to create the battle room. (%d:%08x)
+Battle room creation processing has timed out. (%d:%08x)
+Failed to create the battle room. You do not have multiplayer privileges. (%d:%08x)
+Connection failed. (%d) The
+selected battle room is over capacity. (%d)
+There is no host. (%d) The
+IP address cannot be resolved. (%d)
+Session participation processing has timed out. (%d)
+Communication error. (%d)
+Failed to participate in the battle. (%d)
+Failed to participate in the battle.
+An error occurred while searching the battle room. (%d:%08x)
+The battle room search process has timed out. (%d:%08x)
+Failed to search the battle room. You do not have multiplayer privileges. (%d:%08x)
+Registration to LIVE failed.
+There are no other participants. (%d:%08x)
+Failed to start the battle. (%d:%08x)
+Failed to start the battle. (%d:%08x)
+Battle start processing has timed out. (%d:%08x)
+Battle cannot start. Some players are not ready.
+The host has left. Returns to the previous screen.
+Failed to change the number of private slots.
+The same admiral is used more than once.
+The number of participating players has decreased.
+During the battle start process, some players are preparing.
+The battle is starting...
+I cannot complete the preparation because there are duplicate Admirals.
+The host has disconnected. Returns to the previous screen.
+Quick match failed.
+Quick match failed. The battle room cannot be searched. (%d:%08x)
+Quick match failed. Internal error. (%d:%08x)
+Quick match failed. There are no battle rooms available for participation. (%d:%08x)
+Quick match failed. You do not have multiplayer privileges. (%d:%08x)
+Failed to end the session. (%d:%08x)
+Failed to end the session. (%d:%08x)
+Session termination processing has timed out. (%d:%08x) Obtaining
+ranking...
+Failed to obtain ranking. (%d)
+Failed to get the ranking. (%d)
+Ranking acquisition processing has timed out. (%d)
+Failed to get the ranking. Please sign in. (%d)
+Failed to get the ranking.
+Sign
+sign out
+games continue to
+finish the game
+sign-in
+to proceed with the Legend of the Galactic Heroes game will need to sign in.
+Achievements With the
+current account, achievements will not be canceled even if the game is advanced.
+The sign-in
+account has been switched. Return to the title menu to proceed with the game with this account.
+Yes
+No
+Please launch from the shortcut or Game Explorer.
+There is not enough free memory.
+The security process cannot be contacted and will end.
